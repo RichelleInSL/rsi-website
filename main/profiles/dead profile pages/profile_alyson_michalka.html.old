@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Alyson Michalka - Profile</title>
+	<link href="/css/mainsite.css" rel="stylesheet">
+	<link href="/css/profiles.css" rel="stylesheet">
+	<link href="/css/sidenav.css" rel="stylesheet"/>
+	<link href='/css/materialicons.css' rel='stylesheet'/>
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css' rel='stylesheet'>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/script.js"></script>
+	<script type="text/javascript" src="/scripts/sidenav.js"></script>
+	<script type="text/javascript" src="/scripts/profile.js"></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js'></script>
+</head>
+<body>
+	<div class="innerbody profileinnerbody">
+		<div class="siteheader"></div>
+		
+		<div class="topnav"></div>
+		
+		<div id="mySidenav" class="sidenav sidenavprofiles"></div>
+		<div class="sideprofilenavanchor"></div>
+
+		<div class="profilenameplate">
+			<img class="nameplate" src="/img/profile_nameplates/nameplate_alyson_michalka.jpg" alt="Alyson Michalka" title="Alyson Michalka"/>
+		</div>
+		
+		<div class="profileheader">
+			<div class="profilemainimage">
+				<img class="mainprofileimage" src="/img/profiles/alyson_michalka/profile_main/profile_alyson_michalka_main.png"  alt="Alyson Michalka" title="Alyson Michalka"/>
+			</div>
+
+			<div class="profilestats section fighterstats">
+			
+				<div class="statsflexrow managementpositionrow">
+					<div class="managementpositioncell">
+						<span id="profilemanagementposition" class="managementpositiontext"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Name</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefullname" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Born</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Height</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilebirthdate" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileheight" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweight" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Age Group</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight Class</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Country</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefranchise" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweightclass" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span class="statvalue"><img id="countryicon" class="flagicon" src="" alt="United States" title="United States"/></span>
+					</div>
+				</div>
+			</div> <!--profilestats-->
+		</div> <!--profileheader-->
+
+		<h2 class="sectionheader">Bio</h2>
+		<div class="profilebio section bio">
+			<p class="firstparagraph">You've heard the phrase, <i>always a bridesmaid, but never a bride?</i>  Well, Alyson Michalka is the MMA equivalent of that.  Always the challenger, but never the champion.</p>
+			
+			<p>Before you get the wrong idea, let's clear something up: Alyson is a great fighter.  She has taken on and beaten all of the top fighters in her weight class.  And it's not really true that she's never been a champion, as she has not one but two hard-won tournament titles to her name.  But the title every fighter wants most is the divisional title.  The one that marks her as the queen among her peers.  For Aly, those peers have included the likes of Brooklyn Decker, Erin Heatherton and India Reynolds.  All four women share a very similar, high pressure, brute force style of fighting, and all of them do it very well.  And Aly has proven time and again that she can hold her own against any one of them.  But never when it really matters.  Not when the title is on the line.</p>
+			
+			<p>And so we wait.  Though I think Aly sometimes has to face down her own growing doubts, the rest of us know it's just a matter of time.  Some day she's gonna get that division crown, and, when she does, her struggles will have made the accomplishment that much sweeter.</p>
+			
+			<p>In the meantime, Aly is already an invaluable cog in the RSI machine.  As the captain of our youngest team entry - the appropriately named <i>Aly Cats</i> - she's shown the kind of leadership ability you just can't teach.  She always knows just how to work the emotional levers of her team to get the most out of them without piling on the pressure.  It's a touch Steph McMahon has referred to as <i>perfect</i>, and trust me... that is not a word RSI's head of training throws around lightly.  But Aly certainly deserves such a nod, and her ability to foster just the right environment has won her the respect of her entire team.</p>
+		</div>
+
+		<h2 id="awardssection" class="sectionheader">Awards</h2>
+		<div id="profileawardslist" class="profileawards section bio">
+			<!--The javascript code will insert the awards here-->
+		</div>
+
+		<h2 class="sectionheader">Photo Gallery <span class="photogalleryinstructions">(click here for <a class="fullgallerylink" href="profile_alyson_michalka_gallery.html" target="_blank">the full gallery</a>)</span></h2>
+		<div class="profilegallery section photogallery">
+			<div class="photogalleryviewer">
+				<div class="fotorama">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_001.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_002.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_003.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_004.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_005.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_006.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_007.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_008.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_009.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_010.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_011.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_012.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_013.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_014.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_015.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_016.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_017.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_018.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_019.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_020.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_021.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_022.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_023.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_024.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_025.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_026.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_027.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_028.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_029.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_030.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_031.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_032.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_033.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_034.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_035.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_036.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_037.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_038.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_039.jpg" alt="Alyson Michalka">
+					<img src="/img/profiles/alyson_michalka/profile_gallery/preview/profile_alyson_michalka_040.jpg" alt="Alyson Michalka">
+				</div> <!--fotorama-->
+			</div> <!--photogalleryviewer-->
+		</div> <!--profilegallery-->
+		<div class="bottomnav"></div>
+		<div class="sitefooter"></div>
+	</div> <!--innerbody-->
+	<script>
+		var sFighterName = "Alyson Michalka";
+		getFighterData(sFighterName);
+		//loadFighterProfileGallery(sFighterName);
+		loadFighterAwards(sFighterName);
+	</script>
+</body>
+</html>

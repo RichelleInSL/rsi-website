@@ -1,0 +1,98 @@
+.outer{	width:90%; height:620px; position:relative; background:rgba(255,255,255,0.6); margin:0px auto;}
+
+/* The tabs */
+.verticaltab{
+    background-color: #1abc9c;
+    border: 1px solid #CECECE;
+    margin:30px auto;
+    width: 90%;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.verticaltab ul{
+    float: left;
+    list-style: none;
+    text-align: left;
+    margin: 0px;
+    padding-left: 0px;
+}
+
+.verticaltab ul li{
+    margin-right: -1px;
+}
+
+.verticaltab ul li a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid transparent;
+    border-right: 0px;
+    border-left: 0px;
+    padding: 16px 40px 16px 20px;
+}
+
+.verticaltab ul li a.tab-active {
+    background-color: indigo;
+}
+
+.verticaltab ul li:first-child a{
+    border-top: 0px;
+}
+
+
+/* The content */
+.verticaltab .content{
+    overflow: hidden;
+    border-left: 1px solid #dddddd;
+    font-weight: normal;
+    background-color: #fff;
+    padding: 20px 40px 45px;
+    margin: 0px auto;
+    box-shadow: -3px 0 0px #F3F3F3;
+    text-align: center;
+}
+
+.verticaltab .content div.storyindexentry{
+    display: none;
+}
+
+.verticaltab .content div.content-active{
+    display: block;
+}
+
+@media (max-width: 685px) {
+.verticaltab ul{
+	float: none;
+}
+
+.verticaltab ul li{
+    display: inline-block;
+    margin-bottom: -1px;
+}
+
+.verticaltab ul li a{
+    border: 1px solid transparent;
+    border-bottom: 0px;
+    border-top: 0px;
+    padding: 12px 15px;
+}
+
+.verticaltab ul li a.verticaltab-active {
+    border-color: #dddddd;
+    background-color: #ffffff;
+    box-shadow: 2px 0px 0px #EFEFEF;
+}
+
+.verticaltab ul li:first-child a{
+    border-left: 0px;
+}
+
+.verticaltab .content{
+    padding: 15px 30px 30px;
+    border-left: 0px;
+    border-top: 1px solid #dddddd;
+    box-shadow: 0px -3px 0px #F3F3F3;
+}
+
+}

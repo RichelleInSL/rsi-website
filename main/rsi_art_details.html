@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>RSI Art Details</title>
+	<link href="/css/mainsite.css" rel="stylesheet">
+	<link href="/css/rsi_art_details.css" rel="stylesheet">
+	<link href='/css/sidenav.css' rel='stylesheet'/>
+	<link href='/css/materialicons.css' rel='stylesheet'/>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/script.js"></script>
+	<script type="text/javascript" src="/scripts/sidenav.js"></script>
+	<script type="text/javascript" src="/scripts/rsi_art_details.js"></script>
+</head>
+<body>
+	<div class="rsiartimageinnerbody">
+		<div class="siteheader"></div>
+		
+		<div id="topnav" class="topnav"></div>
+		
+		<div id="mySidenav" class="sidenav sidenavartistworks">
+			<div class="closebtn material-icons" onclick="closeNav()">close</div>
+			<h1 id="sidenavheader" class="sidenavtitle"></h1>
+			<div id="sidenavgrid" class="sidenavitemcollection"></div>
+			<hr class="fadedrule">
+			<div id="mainnavgrid" class="mainnavcollection"></div>
+		</div>
+		<div id="sidenavanchor" class="sidenavanchor"></div>
+
+		<div id="artimagedetailscontainer" class="artimagedetailscontainer">
+			<table id="artimagedetailstable" class="artimagedetailstable">
+				<tr id="artimagedetailstabletopnavigationrow" class="artimagedetailstabletopnavigationrow artimagedetailstablenavigationrow">
+					<td id="artimagedetailstabletopnavigationprevious" class="artimagedetailstabletopnavigationprevious artimagedetailstablenavigationcell">
+						<a id="artimagedetailstabletopnavigationpreviouslink" class="artimagedetailstabletopnavigationpreviouslink artimagedetailstablenavigationcelllink">
+							<span class="material-icons backarrow">navigate_before</span> <span id="artimagedetailstabletopnavigationprevioustext" class="artimagedetailstabletopnavigationprevioustext artimagedetailstablenavigationcelltext">Previous image</span>
+						</a>
+					</td>
+					<td id="artimagedetailstabletopnavigationnext" class="artimagedetailstabletopnavigationnext artimagedetailstablenavigationcell">
+						<a id="artimagedetailstabletopnavigationnextlink" class="artimagedetailstabletopnavigationnextlink artimagedetailstablenavigationcelllink">
+							<span id="artimagedetailstabletopnavigationnexttext" class="artimagedetailstabletopnavigationnexttext artimagedetailstablenavigationcelltext">Next image</span> <span class="material-icons forwardarrow">navigate_next</span>
+						</a>
+					</td>
+				</tr>
+				<tr id="artimagedetailstablerow" class="artimagedetailstablerow artimagetitlerow">
+					<td id="artimagedetailstablecell" class="artimagedetailstablecell artimagetitlecell" colspan="2">
+						<span id="artimagetitletext" class="artimagetitletext"></span>
+					</td>
+				</tr>
+				<tr id="artimagedetailstablerow" class="artimagedetailstablerow artimageartistnamerow">
+					<td id="artimagedetailstablecell" class="artimagedetailstablecell artimageartistnamecell" colspan="2">
+						<span id="artimageartistby" class="artimageartistby">by </span>
+						<a id="artimageartistlink" class="artimageartistlink"><span id="artimageartisttext" class="artimageartisttext"></span>
+					</td>
+				</tr>
+				<tr id="artimagedetailstablerow" class="artimagedetailstablerow artimageimagerow">
+					<td id="artimagedetailstablecell" class="artimagedetailstablecell artimageimagecell" colspan="2">
+						<a id="artimagelink" class="artimagelink">
+							<div id="artimagecontainer" class="artimagecontainer">
+								<img id="artimageimage" class="artimageimage">
+								<div id="artimageoverlay" class="artimageoverlay">
+									<div id="artimageoverlaytext" class="artimageoverlaytext">Click for full-size</div>
+								</div>
+							</div>
+						</a>
+					</td>
+				</tr>
+				<tr id="artimagedetailstablerow" class="artimagedetailstablerow artimagedescriptionrow">
+					<td id="artimagedetailstablecell" class="artimagedetailstablecell artimagedescriptioncell" colspan="2">
+						<span id="artimagedescriptiontext" class="artimagedescriptiontext"></span>
+					</td>
+				</tr>
+				<tr id="artimagedetailstablebottomnavigationrow" class="artimagedetailstablebottomnavigationrow artimagedetailstablenavigationrow">
+					<td id="artimagedetailstablebottomnavigationprevious" class="artimagedetailstablebottomnavigationprevious artimagedetailstablenavigationcell">
+						<a id="artimagedetailstablebottomnavigationpreviouslink" class="artimagedetailstablebottomnavigationpreviouslink artimagedetailstablenavigationcelllink">
+							<span class="material-icons backarrow">navigate_before</span> <span id="artimagedetailstablebottomnavigationprevioustext" class="artimagedetailstablebottomnavigationprevioustext artimagedetailstablenavigationcelltext">Previous image</span>
+						</a>
+					</td>
+					<td id="artimagedetailstablebottomnavigationnext" class="artimagedetailstablebottomnavigationnext artimagedetailstablenavigationcell">
+						<a id="artimagedetailstablebottomnavigationnextlink" class="artimagedetailstablebottomnavigationnextlink artimagedetailstablenavigationcelllink">
+							<span id="artimagedetailstablebottomnavigationnexttext" class="artimagedetailstablebottomnavigationnexttext artimagedetailstablenavigationcelltext">Next image</span> <span class="material-icons forwardarrow">navigate_next</span>
+						</a>
+					</td>
+				</tr>
+			</table>
+		</div>
+<!--		
+		<div id="artimagefigurecontainer" class="artimagefigurecontainer">
+			<figure id="artimagefigure" class="artimagefigure">
+				<figcaption id="artimagefiguretitle" class="artimagefiguretitle artimagefigcaption">
+					<span id="artimagefiguretitletext" class="artimagefiguretitletext"></span><br><span id="artimagefigureartistby" class="artimagefigureartistby">by </span><a id="artimagefigureartistlink" class="artimagefigureartistlink"><span id="artimagefigureartisttext" class="artimagefigureartisttext"></span></a>
+				</figcaption>
+				<a id="artimagefigurelink" class="artimagefigurelink">
+					<img id="artimagefigureimage" class="artimagefigureimage">
+				</a>
+				<figcaption id="artimagefiguredescription" class="artimagefiguredescription artimagefigcaption">
+					<span id="artimagefiguredescriptiontext" class="artimagefiguredescriptiontext"></span>
+				</figcaption>
+			</figure>
+		</div>
+-->
+		<div id="bottomnav" class="bottomnav"></div>
+		<div class="sitefooter"></div>
+	</div> <!--rosterinnerbody-->
+</body>
+</html>

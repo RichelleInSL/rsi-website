@@ -1,0 +1,20 @@
+[
+	{
+		"SourceName": "JSG",
+		"FileName": "jsgroster.json",
+		"RecordCount": "32",
+		"Default": "Yes"
+	},
+    {
+		"SourceName": "RSI",
+		"FileName": "rsiroster.json",
+		"RecordCount": "28",
+		"Default": "No"
+	},
+	{
+		"SourceName": "Test",
+		"FileName": "testroster.json",
+		"RecordCount": "4",
+		"Default": "No"
+	}
+]

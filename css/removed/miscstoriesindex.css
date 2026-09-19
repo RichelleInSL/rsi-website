@@ -1,0 +1,17 @@
+/*
+.innerbody {
+	background-image: url(../img/backgrounds/rice_paper.jpg); background-repeat: repeat;
+}
+*/
+
+.titlecreditlink {
+	color: #87AFC7;
+}
+
+.titlecreditlink:hover {
+	color: #C24641;
+}
+
+.titlecreditlink:visited {
+	color: #87AFC7;
+}

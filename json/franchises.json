@@ -1,0 +1,26 @@
+{
+	"0": {
+		"abbreviation": "UMMA",
+		"fullName": "UMMA"
+	},
+	"1": {
+		"abbreviation": "YGW",
+		"fullName": "Youth Gone Wild"
+	},
+	"2": {
+		"abbreviation": "BTB",
+		"fullName": "Battle Tested Brawlers"
+	},
+	"3": {
+		"abbreviation": "PTP",
+		"fullName": "Primetime Pugilists"
+	},
+	"4": {
+		"abbreviation": "TGG",
+		"fullName": "The Golden Gladiators"
+	},
+	"99": {
+		"abbreviation": "RET",
+		"fullName": "Retired"
+	}
+}

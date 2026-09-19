@@ -1,0 +1,309 @@
+.profileinnerbody {
+	background: black; /*#F2FFED;*/
+	/*background-image: url(../img/backgrounds/tile_background.jpg); background-repeat: repeat;*/
+}
+
+.profilenameplate {
+	display: inline-block;
+	margin-bottom: 1.5em;
+}
+
+.nameplate {
+	max-width:100%;
+	margin-bottom: 0;
+	background-color: #FFFFF7; #FFFFF7=white*/
+}
+
+.profiletitle {
+	display: grid;
+	align-items: center;
+	justify-items: center;
+}
+
+.picstripframe {
+	grid-column: 1/1;
+	grid-row: 1/1;
+}
+
+.picstripbackgroundframe {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	padding: 0;
+}
+
+.profilesignature {
+	opacity: 0.65;
+	grid-column: 1/1;
+	grid-row: 1/1;
+}
+
+#signatureimage {
+	filter: drop-shadow(10px 10px 10px #000);
+}
+
+.picstripimageframe {
+	float: left;
+}
+
+.picstripimage, .signatureimage {
+	max-width: 100%;
+}
+
+.sectionheader {
+	font-family: 'Carter One', cursive;
+	background-color: #000000;
+	background-image: linear-gradient(to right top, #080706, #594D46);
+	color: #D1B280;
+	font-size: 1.75rem;
+	margin-bottom: 0em;
+}
+
+.profilebio {
+	color: white;
+}
+
+.firstparagraph {
+	margin-top: 0;
+}
+
+.profileheader {
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start; /*center*/
+	width: 95%;
+	margin: auto;
+	margin-top: 1em;
+	padding: 0;
+	overflow: hidden;
+}
+
+.profilestats {
+	float: left;
+	border: 1px solid black;
+	padding: 0;
+	margin-left: 1em;
+	width: 70%;
+	margin: 0;
+	padding: 0;
+	background: transparent;/*#FEFCFF;*/
+}
+
+.profilebio {
+	clear: both;
+}
+
+.profilemainimage {
+	display: block;
+	position: relative;
+	float: left;
+	width: 25%;
+	margin: 0;
+	margin-right: 2em;
+	padding: 0;
+}
+
+.mainprofileimage {
+	max-width: 100%;
+}
+
+.managementposition {
+	margin: auto;
+}
+
+.statsflexrow {
+	display: flex;
+	flex-flow: wrap;
+	margin: 0;
+	padding: 0;
+}
+
+.managementpositionrow {
+	background: black;
+	padding-bottom: 1.25em;
+}
+
+.managementpositioncell {
+	width: 100%;
+	font-family: 'Special Elite', cursive;
+	/*font-weight: bold;*/
+	font-size: 2vw;
+	font-size: calc(36px + 0.2vw);
+	color: #C11B17;
+}
+
+.labelrow {
+	background: transparent;
+}
+
+.statsflexcell {
+	width: 33%;
+}
+
+/*Make the nicknames cell 2 columns*/
+#nicknameslabelcell, #nicknamesvaluecell {
+	width: 66%;
+}
+
+
+.fighteraward {
+	display: block;
+	font-size: 1.75rem
+}
+
+.currentdivisionchamp {
+	font-family: 'Black Ops One', cursive;	
+	background-color: #6a93cb;
+	background-image: linear-gradient(315deg, #6a93cb 0%, #a4bfef 74%);
+/*
+	background: rgba(37,56,60,1);
+	background: -moz-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(37,56,60,1)), color-stop(100%, rgba(182,182,180,1)));
+	background: -webkit-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: -o-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: -ms-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: linear-gradient(to right, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#25383c', endColorstr='#b6b6b4', GradientType=1 );
+*/
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+.divisionchamp {
+	font-family: 'Black Ops One', cursive;	
+	background-color: #6a93cb;
+	background-image: linear-gradient(315deg, #6a93cb 0%, #a4bfef 74%);
+/*
+	background: rgba(37,56,60,1);
+	background: -moz-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(37,56,60,1)), color-stop(100%, rgba(182,182,180,1)));
+	background: -webkit-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: -o-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: -ms-linear-gradient(left, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	background: linear-gradient(to right, rgba(37,56,60,1) 0%, rgba(182,182,180,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#25383c', endColorstr='#b6b6b4', GradientType=1 );
+*/
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+/*formerly Red Carpet*/
+.springtournamentchamp {
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	/*BEGIN GRADIENT*/
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#892c3d+0,bf5479+20,fda2b3+40,a1bf77+60,3c5b2a+80 */
+	background: #892c3d; /* Old browsers */
+	background: -moz-linear-gradient(left,  #892c3d 0%, #bf5479 20%, #fda2b3 40%, #a1bf77 60%, #3c5b2a 80%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #892c3d 0%,#bf5479 20%,#fda2b3 40%,#a1bf77 60%,#3c5b2a 80%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #892c3d 0%,#bf5479 20%,#fda2b3 40%,#a1bf77 60%,#3c5b2a 80%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#892c3d', endColorstr='#3c5b2a',GradientType=1 ); /* IE6-9 */
+	/*END GRADIENT*/
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+/*formerly Lingerie*/
+.wintertournamentchamp {
+	font-family: 'Kalam', cursive;
+	/*BEGIN GRADIENT*/
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#758576+0,bdcdc4+20,eff1f4+40,c3d7d9+60,a5d3d4+80 */
+	background: #758576; /* Old browsers */
+	background: -moz-linear-gradient(left,  #758576 0%, #bdcdc4 20%, #eff1f4 40%, #c3d7d9 60%, #a5d3d4 80%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #758576 0%,#bdcdc4 20%,#eff1f4 40%,#c3d7d9 60%,#a5d3d4 80%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #758576 0%,#bdcdc4 20%,#eff1f4 40%,#c3d7d9 60%,#a5d3d4 80%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#758576', endColorstr='#a5d3d4',GradientType=1 ); /* IE6-9 */
+	/*END GRADIENT*/
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+/*formerly Hit The Beach*/
+.summertournamentchamp {
+	font-family: 'Merienda', cursive;
+	font-weight: bold;
+	/*BEGIN GRADIENT*/
+	background: #16A085;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #F4D03F, #16A085);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #F4D03F, #16A085); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	/*END GRADIENT*/
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+/*Did not previously exist*/
+.falltournamentchamp {
+	font-family: 'Lobster Two', cursive;
+	font-weight: bold;
+	/*BEGIN GRADIENT*/
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e9b91c+0,db9a17+20,ce7b12+40,be471b+60,ae1324+80 */
+	background: #e9b91c; /* Old browsers */
+	background: -moz-linear-gradient(left,  #e9b91c 0%, #db9a17 20%, #ce7b12 40%, #be471b 60%, #ae1324 80%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #e9b91c 0%,#db9a17 20%,#ce7b12 40%,#be471b 60%,#ae1324 80%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #e9b91c 0%,#db9a17 20%,#ce7b12 40%,#be471b 60%,#ae1324 80%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9b91c', endColorstr='#ae1324',GradientType=1 ); /* IE6-9 */
+	/*END GRADIENT*/
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+
+.globalrivalrychamp {
+	font-family: 'Vast Shadow', cursive;
+	font-weight: bold;
+	/*BEGIN GRADIENT*/
+	background-color: #637081;
+	background-image: linear-gradient(315deg, #637081 0%, #7c98b3 74%);
+	/*END GRADIENT*/
+	color:transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+.statlabel {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.15rem;
+	color: #B6B6B4;
+}
+
+.statvalue {
+	font-family: 'Ramabhadra', sans-serif;
+	font-size: 1.45rem;
+	display: inline-block;
+	text-indent: 0.5em;
+	padding-top: 0.125em;
+	padding-bottom: 0.125em;
+	margin-bottom: 0;
+	color: white;
+}
+
+#profilefullname {
+	color: #17C21A;
+}
+
+.bio {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.45rem;
+	text-align: justify;
+}
+
+.photogalleryinstructions {
+	font-family: "Georgia", "serif";		
+	font-size: 0.75em;
+}
+
+.fullgallerylink {
+	color: #95B9C7;
+}
+
+.fullgallerylink:hover {
+	color: #4AA02C;
+}
+

@@ -1,0 +1,281 @@
+{
+	"ALYSON MICHALKA": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "ON",
+		"awards": "ON",
+		"photoCount": "40"
+	},
+	"AMANDA SEYFRIED": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "25"
+	},
+	"ANNA KENDRICK": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "58"
+	},
+	"ASHLEY TISDALE": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "45"
+	},
+	"BRITNEY SPEARS": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "70"
+	},
+	"CATHERINE BELL": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "25"
+	},
+	"COBIE SMULDERS": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "39"
+	},
+	"DANIELA HANTUCHOVA": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "20"
+	},
+	"DANNEEL HARRIS": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "42"
+	},
+	"DEMI LOVATO": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "32"
+	},
+	"DIANNA DAHLGREN": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "34"
+	},
+	"DOVE CAMERON": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "20"
+	},
+	"ELISHA CUTHBERT": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "30"
+	},
+	"EMILY VANCAMP": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "ON",
+		"awards": "ON",
+		"photoCount": "105"
+	},
+	"EMMA WATSON": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "ON",
+		"awards": "ON",
+		"photoCount": "100"
+	},
+	"JENNIFER LAWRENCE": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "34"
+	},
+	"JENNIFER MORRISON": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "32"
+	},
+	"JULIANNE HOUGH": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "43"
+	},
+	"KATHERINE MCNAMARA": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "58"
+	},
+	"KRISTEN BELL": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "25"
+	},
+	"MARCELINA BUKOWSKI": {
+		"picstrip": "OFF",
+		"signature": "OFF",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "0"
+	},
+	"OLIVIA HOLT": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "30"
+	},
+	"PATRICIA LEONE": {
+		"picstrip": "OFF",
+		"signature": "OFF",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "0"
+	},
+	"PETRA CUBONOVA": {
+		"picstrip": "OFF",
+		"signature": "OFF",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "21"
+	},
+	"RICHELLE WINTERFELD": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "37"
+	},
+	"SELENA GOMEZ": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "48"
+	},
+	"STANA KATIC": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "33"
+	},
+	"STEPHANIE MCMAHON": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "21"
+	},
+	"TIFFANY MULHERON": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "ON",
+		"awards": "ON",
+		"photoCount": "13"
+	},
+	"TORRIE WILSON": {
+		"picstrip": "OFF",
+		"signature": "OFF",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "49"
+	},
+	"ZENDAYA COLEMAN": {
+		"picstrip": "ON",
+		"signature": "ON",
+		"mainImage": "ON",
+		"stats": "ON",
+		"bio": "OFF",
+		"awards": "ON",
+		"photoCount": "30"
+	}
+}

@@ -1,0 +1,237 @@
+.jsgeventsiminnerbody {
+	width: 90%;
+	margin:auto;
+	margin-top:4em;
+	margin-bottom: 4em;
+	padding: 0;
+	border: 5px outset #B6B6B4;
+	overflow: hidden;
+	background: black;
+	/*background: #560E0E;
+	background-image: url(/img/backgrounds/wood-bg.jpg); background-repeat: repeat;*/
+}
+
+/* .table-container {
+	width: 90%;
+	overflow: scroll;
+	margin:auto;
+	margin-top:1em;
+	margin-bottom: 4em;
+	padding: 0;
+} */
+
+/*
+table {
+  width: 100%;
+}
+*/
+#rostertable {
+	width: 100%;
+	background: black;
+	color: white;
+	border-collapse: collapse;
+}
+
+#rostertable thead tr {
+	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+}
+
+#rostertable th {
+	font-weight: bold;
+	height: inherit;
+	padding: 0;
+}
+
+#rostertable th:not(:first-of-type) {
+	border-left: 1px solid #ddd;
+}
+
+#rostertable th button {
+	background-color: #eee;
+	border: none;
+	cursor: pointer;
+	display: block;
+	font: inherit;
+	height: 100%;
+	margin: 0;
+	min-width: max-content;
+	padding: 0.5rem 1rem;
+	position: relative;
+	text-align: left;
+	width: 100%;
+}
+
+#rostertable th button[sort-direction="asc"].sortascendingarrow {
+	visibility: visible;
+}
+
+#rostertable th button[sort-direction="desc"].sortascendingarrow {
+	visibility: hidden;
+}
+
+#rostertable th button[sort-direction="unsorted"].sortascendingarrow {
+	visibility: hidden;
+}
+
+#rostertable th button[sort-direction="asc"].sortdescendingarrow {
+	visibility: hidden;
+}
+
+#rostertable th button[sort-direction="desc"].sortdescendingarrow {
+	visibility: visible;
+}
+
+#rostertable th button[sort-direction="unsorted"].sortdescendingarrow {
+	visibility: hidden;
+}
+
+#rostertable tbody tr {
+	border-bottom: 1px solid #ddd;
+}
+
+#rostertable td {
+	padding: 0.5rem 1rem;
+	text-align: left;
+}
+
+/*
+.tableheaderrow {
+	background: white;
+	color: black;
+}
+*/
+
+#datasourcedialog {
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+
+.sortedcolumn {
+	background: darkblue;
+}
+
+.evenrow {
+	background: #C11B17;
+}
+
+#formulanotes {
+	width: 90%;
+	margin:auto;
+	margin-top:4em;
+	margin-bottom: 4em;
+	padding: 0;
+	color: white;
+}
+
+h5 {
+	font-size: 2em;
+}
+
+#datasourceselectgrid {
+	border: 0;
+	/*border: 1px solid white;*/
+	border-collapse: collapse;
+	margin: 0;
+	width: 95%;
+}
+
+.datasourceheadercell {
+	text-align: left;
+	padding-top: 0.5rem;
+	padding-right: 0.2rem;
+	padding-bottom: 0.5rem;
+	padding-left: 0.2rem;
+	background-color: #eee;
+	color: black;
+}
+
+.datasourcecell {
+	background-color: black;
+	color: white;
+}
+
+.selecteddatasourcecell {
+	background-color: #C11B17;
+	color: black;
+}
+
+
+
+#rostersection {
+	display: flex;
+	justify-content: center;
+	width: 95%;
+	margin: auto;
+}
+
+#datasourceselectlabel {
+	display: block;
+	background-color: black;
+	font-weight: bold;
+	color: white;
+}
+
+#rosterselector {
+	display: inline;
+	float: left;
+	padding-top: 0;
+	width: 10%;
+}
+
+#rostergridheadertitle {
+	float: left;
+}
+
+#rostergridheaderimage {
+	max-width: 18%;
+	float: right;
+	border: #eee solid 1px;
+	margin: 0;
+}
+
+#rostergridheaderimage:hover {
+	border: black solid 1px;
+}
+
+select:checked {
+	background: linear-gradient(#C11B17, #C11B17);
+	background-color: #C11B17;
+	color: black;
+}
+
+select option:hover, select option:focus, select option:active {
+	background: linear-gradient(#C11B17, #C11B17);
+	background-color: #C11B17;
+	color: black;
+	/*outline: none;
+	outline-color: #C11B17;*/
+}
+
+#rostertablecontainer {
+	display: inline;
+	float: left;
+	width: 90%;
+	overflow-x: scroll;
+}
+
+#formulanotes {
+	display: block;
+}
+
+#datasourceselect {
+	border: solid #C11B17 1px;
+	width: 100%;
+	scrollbar-width: none;
+	background-color: black;
+	color: #C11B17;
+	font-weight: bold;
+}
+
+
+#datasourceselect.scrollable {
+	scrollbar-width: auto;
+}

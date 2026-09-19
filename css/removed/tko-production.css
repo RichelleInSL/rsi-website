@@ -1,0 +1,373 @@
+/*Styling for the TKO index*/
+/*Changing the page background for the tko articles*/
+.innerbody {
+	background-image: url(../img/backgrounds/tile_background.jpg); background-repeat: repeat;
+}
+
+.tkogallery {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	/*align-items: center;*/
+	width: 95%;
+	margin: auto;
+	margin-top: 2em;
+	overflow: hidden;
+	/*border: 1px solid red;*/
+}
+
+.tkogalleryitem {
+	float: left;
+
+	width: 250px;
+	/*height: 15em;*/
+	align-self: center;
+	margin-top:  2%;
+	margin-right:  2%;
+	margin-bottom:  1em;
+	margin-left:  2%;
+	font-family: 'Racing Sans One', cursive;
+	color: #C11B17;
+	font-size: 16pt;
+	/*border: 1px solid blue;*/
+}
+
+.tkogalleryitem:hover {
+	background: #79BAEC;
+	color: black;
+	/*background-color: #3374A6;
+	border-color: #3374A6;
+	color: #8B33A6;*/
+	opacity: 1;
+}
+
+.tkocoverpreviewimage {
+	max-width: 100%;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	/*border-bottom: 3px solid #DDD;*/
+}
+
+.tkocoverpreviewlink {
+	display: table;
+	background: black;
+	text-decoration: none;
+}
+
+.tkocoverpreviewlinkrow {
+	display: table-row;
+}
+
+.tkocoverpreviewlinkcell {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	padding:0;
+	margin:0;
+}
+
+.tkocoverpreviewcaption {
+
+}
+
+/*Styling for the individual TKO editions*/
+.articleparagraph {
+	margin-bottom: 1em;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.25em;
+	line-height: 1.45em;
+	font-weight: 400;
+	color: #333;
+}
+
+img.left, img.right {
+	margin:0;
+	max-width: 100%;
+	height: auto;
+}
+
+img.left {
+	float: left;
+	margin: 0 1.5em 1em 0;
+}
+
+img.right {
+	float: right;
+	margin: 0 0 1em 1.5em;
+}
+
+.coverimage {
+	max-width: 750px;
+}
+
+h1, h2, h3, h4 {
+	margin: 0;
+}
+
+h4 {
+    font-family: 'Denk One', sans-serif;
+    font-size: 1.5em;
+    line-height: 1.75em;
+    position: relative;
+    font-style: normal;
+    color: #3D3D3D;
+    padding: 0px 0px 5px 0px;
+}
+
+/* was h3 */
+.articleheader {
+	font-family: 'Denk One', sans-serif;
+	text-transform: uppercase;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 2em;
+	line-height: 100%;
+	position: relative;
+	color: #3D3D3D;
+	padding: 0px 0px 5px 0px;
+}
+
+/* was h3 */
+.articlesubheader {
+	font-family: 'Denk One', sans-serif;
+	font-size: 1.35em;
+	font-style: normal;
+}
+
+/* Where is h2 used in the articles? */
+/*
+h2 {
+	text-decoration: underline;
+	padding-bottom: 5px;
+	font-size: 28px;
+	line-height: 28px;
+}
+*/
+
+tkolink.a {
+	color: #006600;
+	text-decoration: none;
+	outline: none;
+	text-align: left;
+	font-size: 0.9em;
+	line-height: 1.2em;
+	cursor: auto;
+}
+
+.fightername  {
+	color: #208237;
+	text-decoration: none;
+	font-weight: bold;
+	outline: none;
+	text-align: left;
+	line-height: 1.2em;
+	cursor: auto;
+}
+
+.rsilogo {
+	float: left;
+}
+/*
+.article {
+	margin-top: 20px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	padding: 2em;
+	border: 5px outset #B6B6B4;
+	overflow: hidden;
+	background-image: url(/img/backgrounds/tile_background.jpg); background-repeat: repeat;
+}
+
+.article {
+	padding: 2em;
+}
+*/
+
+.article {
+	border:0;
+	box-shadow: 15px 15px 10px #888888;
+	background: white;
+	background-image: url(../img/backgrounds/paper_background.jpg); background-repeat: repeat;
+	text-decoration: italic;
+	display: inline-block;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 2%;
+}
+
+
+.tkocommentbox {
+	font-family: 'Lato', sans-serif;
+	border: 1px solid #B6B6B4;
+	border-radius: 25px;
+	border: 0;
+	padding: 1em;
+	overflow: hidden;
+	width: 75%;
+	margin: 0 auto;
+	margin-top: 2em;
+	margin-bottom: 20px;
+	background: #8c82ff; /* Old browsers */
+	background: -moz-linear-gradient(to right top, #82caff, #8c82ff); /* FF3.6-15 */
+	background: -webkit-linear-gradient(to right top, #82caff, #8c82ff); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right top, #82caff, #8c82ff); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8c82ff', endColorstr='#82caff',GradientType=0 ); /* IE6-9 */
+}
+
+.issueinfo {
+	font-family: 'Lato', sans-serif;
+	border: 1px solid #B6B6B4;
+	border-radius: 25px;
+	border: 0;
+	padding: 1em;
+	overflow: hidden;
+	width: 50%;
+	max-width: 750px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	background: #8c82ff; /* Old browsers */
+	background: -moz-linear-gradient(to right top, #82caff, #8c82ff); /* FF3.6-15 */
+	background: -webkit-linear-gradient(to right top, #82caff, #8c82ff); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right top, #82caff, #8c82ff); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8c82ff', endColorstr='#82caff',GradientType=0 ); /* IE6-9 */
+}
+
+.issueinfotext {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 1em;
+	text-align: left;
+	font-size: 1.25em;
+	line-height: 1.55em;
+}
+
+.issuelabel {
+	font-family: 'Racing Sans One', cursive;
+}
+
+.issuenumber, .issuedata, .issuedate, .franchise, .eventname, .arena {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.maginfo {
+	text-align: center;
+	overflow: hidden;
+	margin-top: 1em;
+}
+
+.tkocover {
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.tkocovercaption {
+	overflow: hidden;
+	margin: 0 auto;
+	margin-bottom: 1em;
+	color: black;
+}
+
+.horizontalseparator {
+	margin: 0px 0px 0px 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.interviewquestion {
+	color: #4E387E;
+}
+
+.tkofigurecontainer {
+	float: left;
+
+	width: 20%;
+	/*height: 15em;*/
+	align-self: center;
+	background: black;
+	margin-top:  2%;
+	margin-right:  2%;
+	margin-bottom:  1em;
+	margin-left:  2%;
+	font-family: 'Racing Sans One', cursive;
+	color: #C11B17;
+	font-size: 16pt;
+	/*border: 1px solid blue;*/
+}
+
+.tkofigure {
+	border: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.tkofigureheader {
+	display: block;
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+	color:#C11B17;
+	font-size: 2em;
+	font-size: 2.15vw;
+}
+
+.tkoedition, .tkoeventname, .tkoeventdate {
+	font-family: 'Racing Sans One', cursive;
+	font-size: 1em;
+}
+
+.tkofigureimage {
+	display: block;
+	max-width: 100%;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #87AFC7;
+	margin: 0;
+	padding: 0;
+}
+
+.tkofigureimage:hover {
+	opacity: 0.65;
+	border-color: #C24641;
+}
+
+.tkofigureimagelink {
+	display: block;
+	background: white;
+	border: none;
+	margin: 0;
+	padding: 0;
+	overflow: hide;
+}
+
+.tkofigurecaption {
+	display: block;
+	text-align: right;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1em;
+	font-size: 0.8vw;
+	color: #B6B6B4;
+	padding: 0;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+.tkofigurecaptioncreditlink {
+	color: #87AFC7;
+}
+
+.tkofigurecaptioncreditlink:hover {
+	color: #C24641;
+}
+
+.tkofigurecaptioncreditnonlink {
+	color: #87AFC7;
+}

@@ -1,0 +1,61 @@
+{
+    "9999": {
+    "title": "Odds and Ends",
+    "published": "NO",
+    "coverType": "PNG",
+    "coverCredit": "",
+    "coverLink": "",
+    "description": "<p class='indexstorydescription'>Misc Odds and Ends.</p>",
+    "chapters": {
+        "1": {
+            "title": "Changing Of The Guard",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5", "STEPHANIE MCMAHON|4", "EMMA WATSON|3", "EMILY VANCAMP|2"]
+        },
+        "2": {
+            "title": "Past Meets Present",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|16"]
+        },
+        "3": {
+            "title": "The Distraction",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        },
+        "4": {
+            "title": "Ms. Danni Goes To Camp",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        },
+        "5": {
+            "title": "The Phone Calls",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        },
+        "6": {
+            "title": "Danni's First Lesson",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        },
+        "7": {
+            "title": "Hello Darkness",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        },
+        "8": {
+            "title": "Richelle's New Hat",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        },
+        "9": {
+            "title": "Miscellaneous",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        },
+        "10": {
+            "title": "Young Richelle Intro",
+            "released": "NO",
+            "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
+        }
+    }
+}

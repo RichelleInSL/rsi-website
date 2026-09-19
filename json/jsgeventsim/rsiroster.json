@@ -1,0 +1,282 @@
+[
+	{
+		"FullName": "Alyson Michalka",
+		"LastName": "Michalka",
+		"FirstName": "Alyson",
+		"SubmissionWins": 23,
+		"PinWins": 44,
+		"Losses": 17,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Amanda Seyfried",
+		"LastName": "Seyfried",
+		"FirstName": "Amanda",
+		"SubmissionWins": 10,
+		"PinWins": 31,
+		"Losses": 27,
+		"Champ": 0,
+		"Streak": -3
+	},
+	{
+		"FullName": "Anna Kendrick",
+		"LastName": "Kendrick",
+		"FirstName": "Anna",
+		"SubmissionWins": 7,
+		"PinWins": 12,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": 3
+	},
+	{
+		"FullName": "Ashley Tisdale",
+		"LastName": "Tisdale",
+		"FirstName": "Ashley",
+		"SubmissionWins": 20,
+		"PinWins": 20,
+		"Losses": 29,
+		"Champ": 0,
+		"Streak": 5
+	},
+	{
+		"FullName": "Britney Spears",
+		"LastName": "Spears",
+		"FirstName": "Britney",
+		"SubmissionWins": 16,
+		"PinWins": 58,
+		"Losses": 37,
+		"Champ": 0,
+		"Streak": 3
+	},
+	{
+		"FullName": "Catherine Bell",
+		"LastName": "Bell",
+		"FirstName": "Catherine",
+		"SubmissionWins": 21,
+		"PinWins": 54,
+		"Losses": 19,
+		"Champ": 0,
+		"Streak": 14
+	},
+	{
+		"FullName": "Cobie Smulders",
+		"LastName": "Smulders",
+		"FirstName": "Cobie",
+		"SubmissionWins": 0,
+		"PinWins": 15,
+		"Losses": 13,
+		"Champ": 0,
+		"Streak": -2
+	},
+	{
+		"FullName": "Daniela Hantuchova",
+		"LastName": "Hantuchova",
+		"FirstName": "Daniela",
+		"SubmissionWins": 37,
+		"PinWins": 67,
+		"Losses": 15,
+		"Champ": 0,
+		"Streak": 46
+	},
+	{
+		"FullName": "Danneel Harris",
+		"LastName": "Harris",
+		"FirstName": "Danneel",
+		"SubmissionWins": 23,
+		"PinWins": 64,
+		"Losses": 27,
+		"Champ": 1,
+		"Streak": 12
+	},
+	{
+		"FullName": "Demi Lovato",
+		"LastName": "Lovato",
+		"FirstName": "Demi",
+		"SubmissionWins": 3,
+		"PinWins": 3,
+		"Losses": 17,
+		"Champ": 0,
+		"Streak": -12
+	},
+	{
+		"FullName": "Dianna Dahlgren",
+		"LastName": "Dahlgren",
+		"FirstName": "Dianna",
+		"SubmissionWins": 6,
+		"PinWins": 18,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": 10
+	},
+	{
+		"FullName": "Dove Cameron",
+		"LastName": "Cameron",
+		"FirstName": "Dove",
+		"SubmissionWins": 3,
+		"PinWins": 3,
+		"Losses": 3,
+		"Champ": 0,
+		"Streak": 4
+	},
+	{
+		"FullName": "Elisha Cuthbert",
+		"LastName": "Cuthbert",
+		"FirstName": "Elisha",
+		"SubmissionWins": 9,
+		"PinWins": 40,
+		"Losses": 37,
+		"Champ": 0,
+		"Streak": -4
+	},
+	{
+		"FullName": "Emily Vancamp",
+		"LastName": "Vancamp",
+		"FirstName": "Emily",
+		"SubmissionWins": 0,
+		"PinWins": 68,
+		"Losses": 23,
+		"Champ": 0,
+		"Streak": 22
+	},
+	{
+		"FullName": "Emma Watson",
+		"LastName": "Watson",
+		"FirstName": "Emma",
+		"SubmissionWins": 17,
+		"PinWins": 49,
+		"Losses": 10,
+		"Champ": 0,
+		"Streak": 18
+	},
+	{
+		"FullName": "Jennifer Lawrence",
+		"LastName": "Lawrence",
+		"FirstName": "Jennifer",
+		"SubmissionWins": 7,
+		"PinWins": 29,
+		"Losses": 10,
+		"Champ": 0,
+		"Streak": 5
+	},
+	{
+		"FullName": "Jennifer Morrison",
+		"LastName": "Morrison",
+		"FirstName": "Jennifer",
+		"SubmissionWins": 2,
+		"PinWins": 25,
+		"Losses": 14,
+		"Champ": 0,
+		"Streak": 4
+	},
+	{
+		"FullName": "Julianne Hough",
+		"LastName": "Hough",
+		"FirstName": "Julianne",
+		"SubmissionWins": 10,
+		"PinWins": 45,
+		"Losses": 28,
+		"Champ": 0,
+		"Streak": 8
+	},
+	{
+		"FullName": "Katherine McNamara",
+		"LastName": "McNamara",
+		"FirstName": "Katherine",
+		"SubmissionWins": 0,
+		"PinWins": 0,
+		"Losses": 0,
+		"Champ": 0,
+		"Streak": 0
+	},
+	{
+		"FullName": "Kristen Bell",
+		"LastName": "Bell",
+		"FirstName": "Kristen",
+		"SubmissionWins": 3,
+		"PinWins": 22,
+		"Losses": 34,
+		"Champ": 0,
+		"Streak": -7
+	},
+	{
+		"FullName": "Olivia Holt",
+		"LastName": "Holt",
+		"FirstName": "Olivia",
+		"SubmissionWins": 1,
+		"PinWins": 9,
+		"Losses": 6,
+		"Champ": 0,
+		"Streak": 2
+	},
+	{
+		"FullName": "Petra Cubanova",
+		"LastName": "Cubanova",
+		"FirstName": "Petra",
+		"SubmissionWins": 19,
+		"PinWins": 30,
+		"Losses": 28,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Selena Gomez",
+		"LastName": "Gomez",
+		"FirstName": "Selena",
+		"SubmissionWins": 4,
+		"PinWins": 25,
+		"Losses": 14,
+		"Champ": 0,
+		"Streak": 7
+	},
+	{
+		"FullName": "Stana Katic",
+		"LastName": "Katic",
+		"FirstName": "Stana",
+		"SubmissionWins": 5,
+		"PinWins": 32,
+		"Losses": 22,
+		"Champ": 0,
+		"Streak": 4
+	},
+	{
+		"FullName": "Stephanie McMahon",
+		"LastName": "McMahon",
+		"FirstName": "Stephanie",
+		"SubmissionWins": 8,
+		"PinWins": 73,
+		"Losses": 36,
+		"Champ": 0,
+		"Streak": 3
+	},
+	{
+		"FullName": "Tiffany Mulheron",
+		"LastName": "Mulheron",
+		"FirstName": "Tiffany",
+		"SubmissionWins": 10,
+		"PinWins": 42,
+		"Losses": 34,
+		"Champ": 0,
+		"Streak": 11
+	},
+	{
+		"FullName": "Torrie Wilson",
+		"LastName": "Wilson",
+		"FirstName": "Torrie",
+		"SubmissionWins": 10,
+		"PinWins": 42,
+		"Losses": 34,
+		"Champ": 0,
+		"Streak": 11
+	},
+	{
+		"FullName": "Zendaya Coleman",
+		"LastName": "Coleman",
+		"FirstName": "Zendaya",
+		"SubmissionWins": 0,
+		"PinWins": 16,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": 8
+	}
+]

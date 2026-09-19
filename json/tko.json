@@ -1,0 +1,642 @@
+{
+	"1": {
+		"issue": "61",
+		"eventType": 0,
+		"eventDate": "January 2013",
+		"franchise": 3,
+		"eventName": "Wired",
+		"eventLocation": "Vector Arena (Auckland, New Zealand)"
+	},
+	"2": {
+		"issue": "62",
+		"eventType": 0,
+		"eventDate": "February 2013",
+		"franchise": 2,
+		"eventName": "Clinic for the Insane",
+		"eventLocation": "Rod Laver Arena (Melbourne, Australia)"
+	},
+	"3": {
+		"issue": "63",
+		"eventType": 0,
+		"eventDate": "February 2013",
+		"franchise": 1,
+		"eventName": "The Ultimate Force",
+		"eventLocation": "Allphones Arena (Sydney, Australia)"
+	},
+	"4": {
+		"issue": "64",
+		"eventType": 1,
+		"eventDate": "February 2013",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Brisbane Entertainment Centre (Brisbane, Australia)"
+	},
+	"5": {
+		"issue": "65",
+		"eventType": 2,
+		"eventDate": "February 2013",
+		"franchise": 0,
+		"eventName": "Hit The Beach",
+		"eventLocation": "Adelaide Entertainment Centre (Adelaide, Australia)"
+	},
+	"6": {
+		"issue": "66",
+		"eventType": 0,
+		"eventDate": "March 2013",
+		"franchise": 4,
+		"eventName": "Fortress",
+		"eventLocation": "Perth Arena (Perth, Australia)"
+	},
+	"7": {
+		"issue": "67",
+		"eventType": 0,
+		"eventDate": "March 2013",
+		"franchise": 3,
+		"eventName": "Never Again",
+		"eventLocation": "Marina Bay Floating Stadium (Singapore)"
+	},
+	"8": {
+		"issue": "68",
+		"eventType": 0,
+		"eventDate": "March 2013",
+		"franchise": 2,
+		"eventName": "Gauntlet",
+		"eventLocation": "AsiaWorld Arena (Lantau, Hong Kong)"
+	},
+	"9": {
+		"issue": "69",
+		"eventType": 0,
+		"eventDate": "April 2013",
+		"franchise": 1,
+		"eventName": "Stabbed in the Back",
+		"eventLocation": "Mokdong Stadium (Seoul, South Korea)"
+	},
+	"10": {
+		"issue": "70",
+		"eventType": 1,
+		"eventDate": "April 2013",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Nippon Gaishi Hall (Nagoya, Japan)"
+	},
+	"11": {
+		"issue": "71",
+		"eventType": 3,
+		"eventDate": "April 2013",
+		"franchise": 0,
+		"eventName": "Open Fight Night",
+		"eventLocation": "Nippon Gaishi Hall (Nagoya, Japan)"
+	},
+	"12": {
+		"issue": "72",
+		"eventType": 0,
+		"eventDate": "April 2013",
+		"franchise": 4,
+		"eventName": "Maximum Risk",
+		"eventLocation": "Yokohama Arena (Yokohama, Japan)"
+	},
+	"13": {
+		"issue": "73",
+		"eventType": 0,
+		"eventDate": "May 2013",
+		"franchise": 3,
+		"eventName": "Stacked",
+		"eventLocation": "Yokohama Arena (Yokohama, Japan)"
+	},
+	"14": {
+		"issue": "74",
+		"eventType": 0,
+		"eventDate": "May 2013",
+		"franchise": 2,
+		"eventName": "Honorbound",
+		"eventLocation": "Shanghai Oriental Sports Center (Shanghai, China)"
+	},
+	"15": {
+		"issue": "75",
+		"eventType": 0,
+		"eventDate": "May 2013",
+		"franchise": 1,
+		"eventName": "Bad to the Bone",
+		"eventLocation": "Indira Gandhi Arena (New Delhi, India)"
+	},
+	"16": {
+		"issue": "77",
+		"eventType": 2,
+		"eventDate": "May 2013",
+		"franchise": 0,
+		"eventName": "Blood on the Red Carpet",
+		"eventLocation": "St. Petersburg Arena (St. Petersburg, Russia)"
+	},
+	"17": {
+		"issue": "78",
+		"eventType": 0,
+		"eventDate": "June 2013",
+		"franchise": 4,
+		"eventName": "Collision Course",
+		"eventLocation": "Moscow Olympic Arena (Moscow, Russia)"
+	},
+	"18": {
+		"issue": "79",
+		"eventType": 0,
+		"eventDate": "June 2013",
+		"franchise": 3,
+		"eventName": "Under Siege",
+		"eventLocation": "Khodynka Arena (Moscow, Russia)"
+	},
+	"19": {
+		"issue": "80",
+		"eventType": 0,
+		"eventDate": "July 2013",
+		"franchise": 2,
+		"eventName": "Reality Check",
+		"eventLocation": "Belgrade Arena (Belgrade, Serbia)"
+	},
+	"20": {
+		"issue": "81",
+		"eventType": 0,
+		"eventDate": "July 2013",
+		"franchise": 1,
+		"eventName": "Striking Distance",
+		"eventLocation": "Hartwall Areena (Helsinki, Finland)"
+	},
+	"21": {
+		"issue": "83",
+		"eventType": 2,
+		"eventDate": "August 2013",
+		"franchise": 0,
+		"eventName": "Lingerie Invitational",
+		"eventLocation": "Lanxess Arena (Cologne, Germany)"
+	},
+	"22": {
+		"issue": "84",
+		"eventType": 0,
+		"eventDate": "August 2013",
+		"franchise": 4,
+		"eventName": "Harvest of Pain",
+		"eventLocation": "O<sub>2</sub> World (Berlin, Germany)"
+	},
+	"23": {
+		"issue": "85",
+		"eventType": 0,
+		"eventDate": "August 2013",
+		"franchise": 3,
+		"eventName": "Hellbound",
+		"eventLocation": "O<sub>2</sub> Arena (Prague, Czech Republic)"
+	},
+	"24": {
+		"issue": "86",
+		"eventType": 0,
+		"eventDate": "August 2013",
+		"franchise": 2,
+		"eventName": "Tombstone",
+		"eventLocation": "Olympic Indoor Arena (Athens, Greece)"
+	},
+	"25": {
+		"issue": "87",
+		"eventType": 0,
+		"eventDate": "September 2013",
+		"franchise": 1,
+		"eventName": "Fearless",
+		"eventLocation": "PalaLottomatica (Rome, Italy)"
+	},
+	"26": {
+		"issue": "88",
+		"eventType": 1,
+		"eventDate": "September 2013",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Ericsson Globe (Stockholm, Sweden)"
+	},
+	"27": {
+		"issue": "89",
+		"eventType": 4,
+		"eventDate": "September 2013",
+		"franchise": 0,
+		"eventName": "Global Rivalry",
+		"eventLocation": "Bizkaia Arena (Barakaldo, Spain)"
+	},
+	"28": {
+		"issue": "90",
+		"eventType": 0,
+		"eventDate": "October 2013",
+		"franchise": 4,
+		"eventName": "Payback",
+		"eventLocation": "Pavilhão Atlântico (Lisbon, Portugal)"
+	},
+	"29": {
+		"issue": "91",
+		"eventType": 0,
+		"eventDate": "October 2013",
+		"franchise": 3,
+		"eventName": "Fury",
+		"eventLocation": "Ethias Arena (Hasselt, Belgium)"
+	},
+	"30": {
+		"issue": "92",
+		"eventType": 0,
+		"eventDate": "October 2013",
+		"franchise": 2,
+		"eventName": "On Thin Ice",
+		"eventLocation": "Thialf (Heerenveen, Netherlands)"
+	},
+	"31": {
+		"issue": "93",
+		"eventType": 0,
+		"eventDate": "November 2013",
+		"franchise": 1,
+		"eventName": "No Turning Back",
+		"eventLocation": "The O2 Arena (London, United Kingdom)"
+	},
+	"32": {
+		"issue": "94",
+		"eventType": 1,
+		"eventDate": "November 2013",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Manchester Evening News Arena (Manchester, United Kingdom)"
+	},
+	"33": {
+		"issue": "95",
+		"eventType": 3,
+		"eventDate": "December 2013",
+		"franchise": 0,
+		"eventName": "Open Fight Night",
+		"eventLocation": "The O<sub>2</sub> (Dublin, Ireland)"
+	},
+	"34": {
+		"issue": "96",
+		"eventType": 0,
+		"eventDate": "December 2013",
+		"franchise": 4,
+		"eventName": "Sheer Disrespect",
+		"eventLocation": "Orfeo Superdomo (C&oacute;rdoba, Argentina)"
+	},
+	"35": {
+		"issue": "97",
+		"eventType": 0,
+		"eventDate": "January 2014",
+		"franchise": 3,
+		"eventName": "High Voltage",
+		"eventLocation": "HSBC Arena (Rio de Janeiro, Brazil)"
+	},
+	"36": {
+		"issue": "98",
+		"eventType": 0,
+		"eventDate": "January 2014",
+		"franchise": 2,
+		"eventName": "Seek and Destroy",
+		"eventLocation": "Mexico City Arena (Mexico City, Mexico)"
+	},
+	"37": {
+		"issue": "99",
+		"eventType": 0,
+		"eventDate": "February 2014",
+		"franchise": 1,
+		"eventName": "Nemesis",
+		"eventLocation": "Air Canada Centre (Toronto, Ontario, Canada)"
+	},
+	"38": {
+		"issue": "100",
+		"eventType": 1,
+		"eventDate": "February 2014",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Bell Centre (Montreal, Quebec, Canada)"
+	},
+	"39": {
+		"issue": "101",
+		"eventType": 2,
+		"eventDate": "March 2014",
+		"franchise": 0,
+		"eventName": "Hit the Beach",
+		"eventLocation": "Thomas Robinson Stadium (Nassau, Bahamas)"
+	},
+	"40": {
+		"issue": "102",
+		"eventType": 0,
+		"eventDate": "March 2014",
+		"franchise": 4,
+		"eventName": "Final Conflict",
+		"eventLocation": "Civic Centre (Ottawa, Ontario, Canada)"
+	},
+	"41": {
+		"issue": "103",
+		"eventType": 0,
+		"eventDate": "March 2014",
+		"franchise": 3,
+		"eventName": "We Are The Champions",
+		"eventLocation": "Colisee Pepsi (Quebec City, Quebec, Canada)"
+	},
+	"42": {
+		"issue": "104",
+		"eventType": 0,
+		"eventDate": "April 2014",
+		"franchise": 2,
+		"eventName": "To The Death",
+		"eventLocation": "Copps Coliseum (Hamilton, Ontario, Canada)"
+	},
+	"43": {
+		"issue": "105",
+		"eventType": 0,
+		"eventDate": "May 2014",
+		"franchise": 1,
+		"eventName": "The Proving Ground",
+		"eventLocation": "Halifax Metro Centre (Halifax, Nova Scotia, Canada)"
+	},
+	"44": {
+		"issue": "106",
+		"eventType": 1,
+		"eventDate": "May 2014",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "John Labatt Centre (London, Ontario, Canada)"
+	},
+	"45": {
+		"issue": "107",
+		"eventType": 2,
+		"eventDate": "June 2014",
+		"franchise": 0,
+		"eventName": "Blood on the Red Carpet",
+		"eventLocation": "Scotiabank Place (Ottawa, Ontario, Canada)"
+	},
+	"46": {
+		"issue": "108",
+		"eventType": 0,
+		"eventDate": "June 2014",
+		"franchise": 4,
+		"eventName": "Tomorrow Never Dies",
+		"eventLocation": "MTS Centre (Winnipeg, Manitoba, Canada)"
+	},
+	"47": {
+		"issue": "109",
+		"eventType": 0,
+		"eventDate": "July 2014",
+		"franchise": 3,
+		"eventName": "Against All Odds",
+		"eventLocation": "Rogers Arena (Vancouver, British Columbia, Canada)"
+	},
+	"48": {
+		"issue": "110",
+		"eventType": 0,
+		"eventDate": "July 2014",
+		"franchise": 2,
+		"eventName": "The Second Coming",
+		"eventLocation": "Pacific Coliseum (Vancouver, British Columbia, Canada)"
+	},
+	"49": {
+		"issue": "111",
+		"eventType": 0,
+		"eventDate": "August 2014",
+		"franchise": 1,
+		"eventName": "Shockwave",
+		"eventLocation": "Pengrowth Saddledome (Calgary, Alberta, Canada)"
+	},
+	"50": {
+		"issue": "112",
+		"eventType": 2,
+		"eventDate": "August 2014",
+		"franchise": 0,
+		"eventName": "Maxim Top 100",
+		"eventLocation": "Caesars Palace (Las Vegas, NV)"
+	},
+	"51": {
+		"issue": "113",
+		"eventType": 1,
+		"eventDate": "September 2014",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Rexall Place (Edmonton, Alberta, Canada)"
+	},
+	"52": {
+		"issue": "114",
+		"eventType": 2,
+		"eventDate": "October 2014",
+		"franchise": 0,
+		"eventName": "Lingerie Invitational",
+		"eventLocation": "Qwest Arena (Boise, ID)"
+	},
+	"53": {
+		"issue": "115",
+		"eventType": 0,
+		"eventDate": "October 2014",
+		"franchise": 4,
+		"eventName": "Bound For Glory",
+		"eventLocation": "Honda Center (Anaheim, CA)"
+	},
+	"54": {
+		"issue": "116",
+		"eventType": 0,
+		"eventDate": "November 2014",
+		"franchise": 3,
+		"eventName": "End Of An Era",
+		"eventLocation": "Cox Pavilion (Las Vegas, NV)"
+	},
+	"55": {
+		"issue": "117",
+		"eventType": 0,
+		"eventDate": "November 2014",
+		"franchise": 2,
+		"eventName": "Raging Rumble",
+		"eventLocation": "ARCO Arena (Sacramento, CA)"
+	},
+	"56": {
+		"issue": "118",
+		"eventType": 0,
+		"eventDate": "December 2014",
+		"franchise": 1,
+		"eventName": "Boiling Point",
+		"eventLocation": "Mandalay Bay Events Center (Las Vegas, NV)"
+	},
+	"57": {
+		"issue": "119",
+		"eventType": 3,
+		"eventDate": "December 2014",
+		"franchise": 0,
+		"eventName": "Open Fight Night",
+		"eventLocation": "MGM Grand Garden Arena (Las Vegas, NV)"
+	},
+	"58": {
+		"issue": "120",
+		"eventType": 1,
+		"eventDate": "February 2015",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Thomas & Mack Center (Las Vegas, NV)"
+	},
+	"59": {
+		"issue": "121",
+		"eventType": 0,
+		"eventDate": "February 2015",
+		"franchise": 4,
+		"eventName": "Kamikaze",
+		"eventLocation": "Scottrade Center (St. Louis, MO)"
+	},
+	"60": {
+		"issue": "122",
+		"eventType": 0,
+		"eventDate": "March 2015",
+		"franchise": 3,
+		"eventName": "Wired",
+		"eventLocation": "AT&T Center (San Antonio, TX)"
+	},
+	"61": {
+		"issue": "123",
+		"eventType": 0,
+		"eventDate": "March 2015",
+		"franchise": 2,
+		"eventName": "Clinic for the Insane",
+		"eventLocation": "American Bank Center (Corpus Christi, TX)"
+	},
+	"62": {
+		"issue": "124",
+		"eventType": 0,
+		"eventDate": "April 2015",
+		"franchise": 1,
+		"eventName": "The Ultimate Force",
+		"eventLocation": "American Airlines Center (Dallas, TX)"
+	},
+	"63": {
+		"issue": "125",
+		"eventType": 1,
+		"eventDate": "May 2015",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Allstate Arena (Rosemont, IL)"
+	},
+	"64": {
+		"issue": "126",
+		"eventType": 3,
+		"eventDate": "May 2015",
+		"franchise": 0,
+		"eventName": "Global Rivalry",
+		"eventLocation": "Mellon Arena (Pittsburgh, PA)"
+	},
+	"65": {
+		"issue": "127",
+		"eventType": 0,
+		"eventDate": "June 2015",
+		"franchise": 4,
+		"eventName": "Fortress",
+		"eventLocation": "Bojangles' Coliseum (Charlotte, NC)"
+	},
+	"66": {
+		"issue": "128",
+		"eventType": 0,
+		"eventDate": "June 2015",
+		"franchise": 3,
+		"eventName": "Never Again",
+		"eventLocation": "Blue Cross Arena (Rochester, NY)"
+	},
+	"67": {
+		"issue": "129",
+		"eventType": 0,
+		"eventDate": "July 2015",
+		"franchise": 2,
+		"eventName": "Gauntlet",
+		"eventLocation": "Amway Arena (Orlando, FL)"
+	},
+	"68": {
+		"issue": "130",
+		"eventType": 0,
+		"eventDate": "August 2015",
+		"franchise": 1,
+		"eventName": "Stabbed in the Back",
+		"eventLocation": "American Airlines Arena (Miami, FL)"
+	},
+	"69": {
+		"issue": "131",
+		"eventType": 1,
+		"eventDate": "September 2015",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Nationwide Arena (Columbus, OH)"
+	},
+	"70": {
+		"issue": "132",
+		"eventType": 2,
+		"eventDate": "September 2015",
+		"franchise": 0,
+		"eventName": "Hit The Beach",
+		"eventLocation": "Thomas Robinson Stadium (Nassau, Bahamas)"
+	},
+	"71": {
+		"issue": "133",
+		"eventType": 3,
+		"eventDate": "November 2015",
+		"franchise": 0,
+		"eventName": "Open Fight Night",
+		"eventLocation": "Westpac Stadium (Wellington, New Zealand)"
+	},
+	"72": {
+		"issue": "137",
+		"eventType": 0,
+		"eventDate": "February 2016",
+		"franchise": 4,
+		"eventName": "Maximum Risk",
+		"eventLocation": "Vector Arena (Auckland, New Zealand)"
+	},
+	"73": {
+		"issue": "138",
+		"eventType": 0,
+		"eventDate": "March 2016",
+		"franchise": 3,
+		"eventName": "Stacked",
+		"eventLocation": "Rod Laver Arena (Melbourne, Australia)"
+	},
+	"74": {
+		"issue": "139",
+		"eventType": 0,
+		"eventDate": "April 2016",
+		"franchise": 2,
+		"eventName": "Honorbound",
+		"eventLocation": "Allphones Arena (Sydney, Australia)"
+	},
+	"75": {
+		"issue": "141",
+		"eventType": 1,
+		"eventDate": "June 2016",
+		"franchise": 0,
+		"eventName": "Team Warfare",
+		"eventLocation": "Adelaide Entertainment Centre (Adelaide, Australia)"
+	},
+	"76": {
+		"issue": "142",
+		"eventType": 2,
+		"eventDate": "July 2016",
+		"franchise": 0,
+		"eventName": "Blood on the Red Carpet",
+		"eventLocation": "Perth Arena (Perth, Australia)"
+	},
+	"77": {
+		"issue": "144",
+		"eventType": 0,
+		"eventDate": "September 2016",
+		"franchise": 4,
+		"eventName": "Collision Course",
+		"eventLocation": "AsiaWorld Arena (Lantau, Hong Kong)"
+	},
+	"78": {
+		"issue": "145",
+		"eventType": 0,
+		"eventDate": "September 2016",
+		"franchise": 3,
+		"eventName": "Under Siege",
+		"eventLocation": "Mokdong Stadium (Seoul, South Korea)"
+	},
+	"79": {
+		"issue": "146",
+		"eventType": 0,
+		"eventDate": "October 2016",
+		"franchise": 2,
+		"eventName": "Reality Check",
+		"eventLocation": "Osaka Castle Hall (Osaka, Japan)"
+	},
+	"80": {
+		"issue": "147",
+		"eventType": 0,
+		"eventDate": "October 2016",
+		"franchise": 1,
+		"eventName": "Striking Distance",
+		"eventLocation": "Nippon Gaishi Hall (Nagoya, Japan)"
+	}
+}

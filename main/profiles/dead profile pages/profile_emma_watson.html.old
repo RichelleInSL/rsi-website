@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Emma Watson - Profile</title>
+	<link href="/css/mainsite.css" rel="stylesheet">
+	<link href="/css/profiles.css" rel="stylesheet">
+	<link href="/css/sidenav.css" rel="stylesheet"/>
+	<link href='/css/materialicons.css' rel='stylesheet'/>
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css' rel='stylesheet'>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/script.js"></script>
+	<script type="text/javascript" src="/scripts/sidenav.js"></script>
+	<script type="text/javascript" src="/scripts/profile.js"></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js'></script>
+</head>
+<body>
+	<div class="innerbody profileinnerbody">
+		<div class="siteheader"></div>
+		
+		<div class="topnav"></div>
+		
+		<div id="mySidenav" class="sidenav sidenavprofiles"></div>
+		<div class="sideprofilegallerynavanchor"></div>
+
+		<div class="profilenameplate">
+			<img class="nameplate" src="/img/profile_nameplates/nameplate_emma_watson.jpg" alt="Emma Watson" title="Emma Watson"/>
+		</div>
+		
+		<div class="profileheader">
+			<div class="profilemainimage">
+				<img class="mainprofileimage" src="/img/profiles/emma_watson/profile_main/profile_emma_watson_main.png"  alt="Emma Watson" title="Emma Watson"/>
+			</div>
+
+			<div class="profilestats section fighterstats">
+			
+				<div class="statsflexrow managementpositionrow">
+					<div class="managementpositioncell">
+						<span id="profilemanagementposition" class="managementpositiontext"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Name</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefullname" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Born</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Height</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilebirthdate" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileheight" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweight" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Age Group</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight Class</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Country</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefranchise" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweightclass" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span class="statvalue"><img id="countryicon" class="flagicon" src="" alt="United Kingdom" title="United Kingdom"/></span>
+					</div>
+				</div>
+			</div> <!--profilestats-->
+		</div> <!--profileheader-->
+
+		<h2 class="sectionheader">Bio</h2>
+		<div class="profilebio section bio">
+			<p class="firstparagraph">It's no secret that beneath Emma's fun and friendly persona lies an almost unrivaled intensity. Whether it's her impassioned, hands-on approach to helping women the world over find the equality they so richly deserve or the simple act of rising up in defense of a friend, she's repeatedly shown she's not one to stand on the sidelines and watch.  She gets involved.</p>
+			
+			<p>How does that fierceness translate to the cage?  Just ask any of the many opponents she's blitzed her way through on her way to the top of the featherweight rankings.  Emma has shown she can go toe-to-toe with anyone, and she has the hardware to prove it.  It was July of 2013 when she first laid claim to the divisional crown.  Her reign continues - unbroken - to this day.  And it's not just that she wins.  It's the way she does it.  Emma's had a few different nicknames over the years, but the one that sticks best is <i>The Tiny Terror</i>.  Because her diminutive size is nothing more than a disguise.  No one can end a fight as quickly as she can.  One mistake - just one tiny opening in her opponent's defense - and Emma will slip through and get the finish.</p>
+			
+			<p>Emma's fearlessness extends into the locker room, too.  Every stable needs someone to stir things up.  A fighter who's not afraid to stick her nose in and get involved when a stablemate (or even a stable owner) needs a push in the right direction.  It's a delicate process and it always risks a bad reaction from the pushee.  But Emma's not exactly known for being risk-averse, and her teammates are usually willing to cut her some slack.  After all, they know her heart is always in the right place.</p>
+			
+			<p>Speaking of hearts, Emma's belongs to her training partner, Tiffany Mulheron.  And, though their relationship is intensely private, it's certainly had an impact in the gym.  Workplace romance usually makes the management types break out in hives, but Emma and Tiff clearly have a good thing going.  Maybe it helps that they're both elite level fighters?  Probably.  But together, they are much more than either was alone.  The two have proven nearly untouchable as they continue to add title after title to the RSI trophy case.  In fact, lately it seems that the only opponent that can trip either of them up is the other.  Talk about a lovers' quarrel.  But that's probably a good sign.  After all, if your love can survive the unforgiving harshness of the cage, then life in general has nothing you can't deal with.</p>
+		</div>
+
+		<h2 id="awardssection" class="sectionheader">Awards</h2>
+		<div id="profileawardslist" class="profileawards section bio">
+			<!--The javascript code will insert the awards here-->
+		</div>
+
+		<h2 class="sectionheader">Photo Gallery <span class="photogalleryinstructions">(click here for <a class="fullgallerylink" href="profile_emma_watson_gallery.html" target="_blank">the full gallery</a>)</span></h2>
+		<div class="profilegallery section photogallery">
+			<div class="photogalleryviewer">
+				<div class="fotorama">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_001.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_002.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_003.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_004.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_005.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_006.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_007.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_008.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_009.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_010.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_011.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_012.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_013.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_014.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_015.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_016.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_017.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_018.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_019.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_020.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_021.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_022.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_023.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_024.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_025.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_026.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_027.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_028.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_029.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_030.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_031.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_032.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_033.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_034.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_035.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_036.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_037.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_038.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_039.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_040.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_041.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_042.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_043.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_044.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_045.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_046.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_047.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_048.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_049.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_050.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_051.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_052.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_053.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_054.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_055.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_056.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_057.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_058.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_059.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_060.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_061.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_062.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_063.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_064.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_065.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_066.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_067.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_068.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_069.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_070.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_071.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_072.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_073.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_074.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_075.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_076.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_077.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_078.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_079.jpg" alt="Emma Watson">
+					<img src="/img/profiles/emma_watson/profile_gallery/preview/profile_emma_watson_080.jpg" alt="Emma Watson">
+				</div> <!--fotorama-->
+			</div> <!--photogalleryviewer-->
+		</div> <!--profilegallery-->
+		<div class="bottomnav"></div>
+		<div class="sitefooter"></div>
+	</div> <!--innerbody-->
+	<script>
+		var sFighterName = "Emma Watson";
+		getFighterData(sFighterName);
+		//loadFighterProfileGallery(sFighterName);
+		loadFighterAwards(sFighterName);
+	</script>
+</body>
+</html>

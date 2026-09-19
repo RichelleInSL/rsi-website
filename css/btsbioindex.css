@@ -1,0 +1,23 @@
+/*Styling for the BTS index*/
+/*Changing the page background for the bts stories*/
+.characterbiopreviewimage {
+	width: 100px;
+}
+
+.characterbiopreviewcollection{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: left;
+}
+
+.characterbiopreview{
+	float: left;
+	align-self: center;
+	padding:5px;
+}
+
+.characterbiopreviewheader {
+	margin: 0;
+	padding: 0;
+}

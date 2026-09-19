@@ -1,0 +1,198 @@
+/*Styling for miscellaneous stories*/
+
+/*
+.innerbody {
+	background-image: url(../img/backgrounds/rice_paper.jpg); background-repeat: repeat;
+}
+*/
+
+.storycredit {
+	font-size: 1.5rem;
+	font-style: italic;
+}
+
+.storycreditlink {
+	color: #87AFC7;
+	transition: 1s ease;
+}
+
+.storycreditlink:hover {
+	color: #C24641;
+}
+
+.storycreditnonlink {
+	color: #87AFC7;
+}
+
+.storycreditlink:visited {
+	color: #87AFC7;
+}
+
+.miscstoryfigurecontainer {
+	display: block;
+	margin: auto;
+	width: 60%;
+	background: black;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	border: 3px inset #B6B6B4;
+}
+
+.miscstoryheadercontainer {
+	display: block;
+	margin: auto;
+	width: 80%;
+	background: black;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	border: 3px inset #B6B6B4;
+}
+
+.miscstoryfigure {
+	display: block;
+	padding-top: 0.5em;
+	padding-bottom: 0;
+}
+
+.miscstoryimagelink {
+	display: block;
+	background: transparent;
+	border: none;
+	margin: 0;
+	padding: 0;
+	overflow: hide;
+}
+
+.miscstoryheaderimagelink {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.miscstoryimagecontainer {
+	position: relative;
+	text-decoration: none;
+	margin: 5px;
+	padding: 0;
+	border: 0;
+/*
+	border: 2px solid white;
+	box-shadow: 0 0 0 2px white;
+*/
+	background: black;
+	transition: 1s ease;
+}
+
+
+.miscstoryimage {
+	display: block;
+	opacity: 1;
+	padding: 0;
+	margin: 0;
+	border: none;
+	max-width: 100%;
+	max-height: 100%;
+	object-fit: contain;
+	transition: 1s ease;
+	backface-visibility: hidden;
+	background: transparent;
+}
+
+.miscstoryimageoverlay {
+	opacity: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 50%;
+	transition: 1s ease;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+/*
+.miscstoryimagecontainer:hover {
+	box-shadow: 0 0 0 2px red;
+}
+*/
+
+.miscstoryimageoverlaytext {
+	font-family: 'Racing Sans One', cursive;
+	background-color: transparent;
+	text-decoration: none;
+	color: white;
+	margin: auto;
+	border: 1px solid white;
+	font-size: 16px;
+	padding: 16px 32px 16px 32px;
+}
+
+.miscstoryimagecontainer:hover .miscstoryimage {
+	opacity: 0.5;
+	filter: blur(20px);
+}
+
+.miscstoryimagecontainer:hover .miscstoryimageoverlay {
+	opacity: 1;
+}
+
+/*
+.miscstoryimage {
+	display: block;
+	margin: auto;
+	width: 100%;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #87AFC7;
+}
+
+.miscstoryimage:hover {
+	opacity: 0.85;
+	border-color: #C24641;
+}
+*/
+
+.miscstoryimagecaption{
+	display: block;
+	text-align: right;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1em;
+	color: #B6B6B4;
+	padding-top: 1em;
+}
+
+.miscstorycaptionheader{
+	display: block;
+	text-align: center;
+	font-family: 'Diplomata', cursive;
+	font-size: 3em;
+	font-size: 3rem;
+	color: #C11B17;
+	padding-top: 0;
+	padding-bottom: 0.5em;
+}
+
+.miscstoryheadercredit{
+	display: block;
+	text-align: center;
+	font-family: 'Archivo Black', 'Impact', 'Charcoal', sans-serif;
+	font-size: 1.25em;
+	font-size: 1.25vw;
+	color: white;
+	padding-top: 0;
+}
+
+/*
+.miscstoryfiguresourcenote {
+	background: white;
+}
+*/
+
+.miscstoryfigurecaptionlink {
+	color: #87AFC7;
+	transition: 1s ease;
+}
+
+.miscstoryfigurecaptionlink:hover {
+	color: #C24641;
+}
+

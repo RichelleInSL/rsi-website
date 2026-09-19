@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link href="/css/mainsite.css" rel="stylesheet">
+	<link href="/css/profiles.css" rel="stylesheet">
+	<link href="/css/profilegallery.css" rel="stylesheet">
+	<link href="/css/sidenav.css" rel="stylesheet"/>
+	<link href='/css/materialicons.css' rel='stylesheet'/>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/script.js"></script>
+	<script type="text/javascript" src="/scripts/sidenav.js"></script>
+	<script type="text/javascript" src="/scripts/profile.js"></script>
+</head>
+<body>
+	<div class="innerbody profileinnerbody">
+		<div class="siteheader"></div>
+		
+		<div class="topnav"></div>
+		
+		<div id="mySidenav" class="sidenav sidenavprofiles"></div>
+		<div class="sideprofilegallerynavanchor"></div>
+
+		<div class="profilenameplate">
+			<img id="profilenameplateimage" class="nameplate"/>
+		</div>
+		
+		<div class="profileheader">
+			<div class="profilemainimage">
+				<img id="profilemainimage" class="mainprofileimage"/>
+			</div>
+			
+			<div class="profilestats section fighterstats">
+			
+				<div class="statsflexrow managementpositionrow">
+					<div class="managementpositioncell">
+						<span id="profilemanagementposition" class="managementpositiontext"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span id="profilenamelabel" class="statlabel bold"></span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefullname" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span id="profilebirthdatelabel" class="statlabel bold"></span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span id="profileheightlabel" class="statlabel bold"></span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span id="profileweightlabel" class="statlabel bold"></span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilebirthdate" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileheight" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweight" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span id="profilefranchiselabel" class="statlabel bold"></span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span id="profileweightclasslabel" class="statlabel bold"></span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span id="profilecountrylabel" class="statlabel bold"></span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefranchise" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweightclass" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span class="statvalue"><img id="countryicon" class="flagicon"/></span>
+					</div>
+				</div>
+			</div> <!--profilestats-->
+		</div> <!--profileheader-->
+
+		<h2 id="biosection" class="sectionheader"></h2>
+		<div id="fighterBio" class="profilebio section bio">
+		</div>
+
+		<h2 id="awardssection" class="sectionheader"></h2>
+		<div id="profileawardslist" class="profileawards section bio">
+			<!--The javascript code will insert the awards here-->
+		</div>
+
+		<h2 id="gallerysection" class="sectionheader"></span></h2>
+		<div id="profilegallerycontainerid" class="profilegallerycontainer">
+			<div id="profilegalleryid" class="profilegallery">
+			</div>
+		</div>
+
+		<div class="bottomnav"></div>
+		<div class="sitefooter"></div>
+	</div> <!--innerbody-->
+	<script>
+		var path = window.location.pathname;
+		var page = path.split("/").pop();
+		var nameOnly = page.replace("profile_","").replace(".html","").replace("_"," ");
+		
+		loadAllProfileData(nameOnly);
+	</script>
+</body>
+</html>

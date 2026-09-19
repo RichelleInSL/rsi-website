@@ -1,0 +1,19 @@
+{
+	"management": [
+		{
+			"id": 1,
+			"name": "Richelle Winterfeld",
+			"title": "Owner"
+		},
+		{
+			"id": 2,
+			"name": "Danneel Harris",
+			"title": "Stable Leader"
+		},
+		{
+			"id": 3,
+			"name": "Stephanie McMahon",
+			"title": "Development Coordinator"
+		}
+	]
+}

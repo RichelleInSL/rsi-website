@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Emily VanCamp - Profile</title>
+	<link href="/css/mainsite.css" rel="stylesheet">
+	<link href="/css/profiles.css" rel="stylesheet">
+	<link href="/css/sidenav.css" rel="stylesheet"/>
+	<link href='/css/materialicons.css' rel='stylesheet'/>
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css' rel='stylesheet'>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/script.js"></script>
+	<script type="text/javascript" src="/scripts/sidenav.js"></script>
+	<script type="text/javascript" src="/scripts/profile.js"></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js'></script>
+</head>
+<body>
+	<div class="innerbody profileinnerbody">
+		<div class="siteheader"></div>
+		
+		<div class="topnav"></div>
+		
+		<div id="mySidenav" class="sidenav sidenavprofiles"></div>
+		<div class="sideprofilenavanchor"></div>
+
+		<div class="profilenameplate">
+			<img class="nameplate" src="/img/profile_nameplates/nameplate_emily_vancamp.jpg" alt="Emily VanCamp" title="Emily VanCamp"/>
+		</div>
+		
+		<div class="profileheader">
+			<div class="profilemainimage">
+				<img class="mainprofileimage" src="/img/profiles/emily_vancamp/profile_main/profile_emily_vancamp_main.png"  alt="Emily VanCamp" title="Emily VanCamp"/>
+			</div>
+
+			<div class="profilestats section fighterstats">
+			
+				<div class="statsflexrow managementpositionrow">
+					<div class="managementpositioncell">
+						<span id="profilemanagementposition" class="managementpositiontext"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Name</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefullname" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Born</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Height</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilebirthdate" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileheight" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweight" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Age Group</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight Class</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Country</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefranchise" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweightclass" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span class="statvalue"><img id="countryicon" class="flagicon" src="" alt="Canada" title="Canada"/></span>
+					</div>
+				</div>
+			</div> <!--profilestats-->
+		</div> <!--profileheader-->
+
+		<h2 class="sectionheader">Bio</h2>
+		<div class="profilebio section bio">
+			<p class="firstparagraph">Emily VanCamp seems like just about the last person you'd expect to find in a fight cage.  Friendly, engaging and sweet as Canadian maple syrup, she's the type of person you could talk to for hours without even realizing it.  And it's no act.  She is all of those things.  But look a little deeper, and you'll find she is much, much more.</p>
+			
+			<p>Em has been a good fighter from the start, but wins were hard to come by early on.  Within a year, she was labeled as nothing more than a journeywoman.  Dismissed as an also-ran.</p>
+			
+			<p>Then came the crazy, unbelievable winning streak.  One that saw her take twelve of her next thirteen fights - nearly all of them by knockout or TKO.  Suddenly, she was all anyone could talk about.  The league was young and the roster small.  She went from nothing to serious contender in a little over a year, and she had the title directly in her sights.  It was full-speed ahead for the unstoppable Emily VanCamp.</p>
+			
+			<p>And then it all just...  went away.  The winning stopped, her record spiraled and she was quickly forgotten.  She even lost her sponsorship.  Her stable owner had pinned all his hopes on her when the going was good, and her collapse forced him to rebuild.  And he couldn't do it around Emily.  He needed new talent, with untapped potential.  Not a fighter who would forever be good, but never great.</p>
+			
+			<p>That's how she found her way to Rampage Sports.  Because we weren't too great then, either.  It was a perfect match.  Except...  we really weren't much help, early on.</p>
+			
+			<p>A year after signing, another run put her in sight of the title again, but she soon came crashing down again.  Another surge followed.  Again, she came up short.  The wild roller coaster continued, but she never had anything to show for her efforts.  It was the kind of thing that would slowly crush the spirit out of most fighters.</p>
+			
+			<p>Luckily, Emily is not like most fighters.</p>
+			
+			<p>Something about that sugary personality of hers made her immune to the crazy highs and lows.  She never got dejected after a tough loss, and she never got too full of herself after a big win.  She just kept her head down and her nose to the grindstone.  That steady nature allowed her to accomplish something important without anyone noticing it.  Through all the ups and downs, the long-term slope of her career was consistently trending up.  Each drop would leave her a few slots higher than the previous bottom.  Eventually, she found herself back at the top of the rankings... only this time, she was there to stay.  Soon after that, the hardware started to flow.  First came the gutsy, savage win over Irina Sheik that brought her the division title.  A year later, Em was the ultimate victor in the crazy, mixed-weight Global Rivalry tournament.  A little over a year later, she took the lightweight crown at the league's annual Summer Tournament.  All the while, her ongoing divisional war with Sheik produced one classic after another.</p>
+			
+			<p>Today, Emily isn't just good.  She's unquestionably great.  No longer an also-ran or a might-have-been.  She's elite on a level that defies description.  For a very long time, Irina Sheik was the most feared lightweight in the league.  Today that distinction belongs to Emily VanCamp.  Feel free to ask around.  No one will tell you different.</p>
+			
+			<p>Oh, and if you're wondering if Emily is different now that she's the decided class of the league... well, just stop on by the gym and see for yourself.  You can find her at the heavy bag... or in the sparring cage... or helping the younger fighters polish up their game... or doing one of the countless other things she's been doing since day one.  Because the titles and success haven't changed Em one bit.  She's still the friendly, hard-working girl from a little tourist town in Canada.  Only now she can kick your ass so hard and so fast... you won't even know what hit you.</p>
+		</div>
+
+		<h2 id="awardssection" class="sectionheader">Awards</h2>
+		<div id="profileawardslist" class="profileawards section bio">
+			<!--The javascript code will insert the awards here-->
+		</div>
+
+
+		<h2 class="sectionheader">Photo Gallery <span class="photogalleryinstructions">(click here for <a class="fullgallerylink" href="profile_emily_vancamp_gallery.html" target="_blank">the full gallery</a>)</span></h2>
+		<div class="profilegallery section photogallery">
+			<div class="photogalleryviewer">
+				<div class="fotorama">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_001.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_002.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_003.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_004.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_005.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_006.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_007.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_008.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_009.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_010.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_011.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_012.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_013.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_014.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_015.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_016.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_017.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_018.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_019.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_020.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_021.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_022.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_023.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_024.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_025.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_026.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_027.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_028.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_029.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_030.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_031.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_032.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_033.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_034.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_035.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_036.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_037.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_038.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_039.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_040.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_041.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_042.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_043.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_044.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_045.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_046.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_047.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_048.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_049.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_050.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_051.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_052.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_053.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_054.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_055.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_056.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_057.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_058.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_059.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_060.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_061.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_062.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_063.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_064.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_065.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_066.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_067.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_068.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_069.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_070.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_071.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_072.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_073.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_074.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_075.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_076.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_077.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_078.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_079.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_080.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_081.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_082.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_083.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_084.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_085.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_086.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_087.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_088.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_089.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_090.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_091.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_092.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_093.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_094.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_095.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_096.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_097.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_098.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_099.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_100.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_101.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_102.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_103.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_104.jpg" alt="Emily VanCamp">
+					<img src="/img/profiles/emily_vancamp/profile_gallery/preview/profile_emily_vancamp_105.jpg" alt="Emily VanCamp">
+				</div> <!--fotorama-->
+			</div> <!--photogalleryviewer-->
+		</div> <!--profilegallery-->
+		<div class="bottomnav"></div>
+		<div class="sitefooter"></div>
+	</div> <!--innerbody-->
+	<script>
+		var sFighterName = "Emily Vancamp";
+		getFighterData(sFighterName);
+		//loadFighterProfileGallery(sFighterName);
+		loadFighterAwards(sFighterName);
+	</script>
+</body>
+</html>

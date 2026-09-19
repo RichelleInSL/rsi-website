@@ -1,0 +1,322 @@
+[
+	{
+		"FullName": "Amalie Townley",
+		"LastName": "Townley",
+		"FirstName": "Amalie",
+		"SubmissionWins": 3,
+		"PinWins": 2,
+		"Losses": 3,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Brianna Bentley",
+		"LastName": "Bentley",
+		"FirstName": "Brianna",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 6,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Brooke Kreuger",
+		"LastName": "Kreuger",
+		"FirstName": "Brooke",
+		"SubmissionWins": 2,
+		"PinWins": 1,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Camille Levigne",
+		"LastName": "Levigne",
+		"FirstName": "Camille",
+		"SubmissionWins": 1,
+		"PinWins": 2,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": -2
+	},
+	{
+		"FullName": "Candace Deans",
+		"LastName": "Deans",
+		"FirstName": "Candace",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": -2
+	},
+	{
+		"FullName": "Carla Weber",
+		"LastName": "Weber",
+		"FirstName": "Carla",
+		"SubmissionWins": 3,
+		"PinWins": 0,
+		"Losses": 6,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Cynthia Matthews",
+		"LastName": "Matthews",
+		"FirstName": "Cynthia",
+		"SubmissionWins": 4,
+		"PinWins": 2,
+		"Losses": 1,
+		"Champ": 1,
+		"Streak": 6
+	},
+	{
+		"FullName": "Devon Davenport",
+		"LastName": "Davenport",
+		"FirstName": "Devon",
+		"SubmissionWins": 5,
+		"PinWins": 1,
+		"Losses": 1,
+		"Champ": 0,
+		"Streak": 6
+	},
+	{
+		"FullName": "Elena Santiago",
+		"LastName": "Santiago",
+		"FirstName": "Elena",
+		"SubmissionWins": 2,
+		"PinWins": 0,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": -2
+	},
+	{
+		"FullName": "Hana Yamakawa",
+		"LastName": "Yamakawa",
+		"FirstName": "Hana",
+		"SubmissionWins": 0,
+		"PinWins": 0,
+		"Losses": 1,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Harper Walker-Griffon",
+		"LastName": "Walker-Griffon",
+		"FirstName": "Harper",
+		"SubmissionWins": 1,
+		"PinWins": 1,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Heather Flynn",
+		"LastName": "Flynn",
+		"FirstName": "Heather",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 0,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Heidi Thomas",
+		"LastName": "Thomas",
+		"FirstName": "Heidi",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": -5
+	},
+	{
+		"FullName": "Holly Petersen",
+		"LastName": "Petersen",
+		"FirstName": "Holly",
+		"SubmissionWins": 0,
+		"PinWins": 3,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": -3
+	},
+	{
+		"FullName": "Isabella Garcia",
+		"LastName": "Garcia",
+		"FirstName": "Isabella",
+		"SubmissionWins": 4,
+		"PinWins": 2,
+		"Losses": 3,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Janie Robbins",
+		"LastName": "Robbins",
+		"FirstName": "Janie",
+		"SubmissionWins": 4,
+		"PinWins": 1,
+		"Losses": 3,
+		"Champ": 0,
+		"Streak": 2
+	},
+	{
+		"FullName": "Jennifer Watson",
+		"LastName": "Watson",
+		"FirstName": "Jennifer",
+		"SubmissionWins": 1,
+		"PinWins": 2,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": -3
+	},
+	{
+		"FullName": "Jessica Barker",
+		"LastName": "Barker",
+		"FirstName": "Jessica",
+		"SubmissionWins": 1,
+		"PinWins": 2,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Joline Willis",
+		"LastName": "Willis",
+		"FirstName": "Joline",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 6,
+		"Champ": 0,
+		"Streak": -3
+	},
+	{
+		"FullName": "Kaitlyn Morrisey",
+		"LastName": "Morrisey",
+		"FirstName": "Kaitlyn",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 6,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Karen Patten",
+		"LastName": "Patten",
+		"FirstName": "Karen",
+		"SubmissionWins": 4,
+		"PinWins": 1,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Krystyna Zielinski",
+		"LastName": "Zielinski",
+		"FirstName": "Krystyna",
+		"SubmissionWins": 3,
+		"PinWins": 0,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": 2
+	},
+	{
+		"FullName": "Laura O'Brien",
+		"LastName": "O'Brien",
+		"FirstName": "Laura",
+		"SubmissionWins": 3,
+		"PinWins": 2,
+		"Losses": 1,
+		"Champ": 0,
+		"Streak": 4
+	},
+	{
+		"FullName": "Leah Cunningham",
+		"LastName": "Cunningham",
+		"FirstName": "Leah",
+		"SubmissionWins": 0,
+		"PinWins": 0,
+		"Losses": 1,
+		"Champ": 0,
+		"Streak": -1
+	},
+	{
+		"FullName": "Makayla Layne",
+		"LastName": "Layne",
+		"FirstName": "Makayla",
+		"SubmissionWins": 0,
+		"PinWins": 2,
+		"Losses": 5,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Mckenzie O'Brien",
+		"LastName": "O'Brien",
+		"FirstName": "Mckenzie",
+		"SubmissionWins": 4,
+		"PinWins": 0,
+		"Losses": 2,
+		"Champ": 0,
+		"Streak": 4
+	},
+	{
+		"FullName": "Raye Larssen",
+		"LastName": "Larssen",
+		"FirstName": "Raye",
+		"SubmissionWins": 7,
+		"PinWins": 1,
+		"Losses": 1,
+		"Champ": 0,
+		"Streak": 6
+	},
+	{
+		"FullName": "Rebecca Davis",
+		"LastName": "Davis",
+		"FirstName": "Rebecca",
+		"SubmissionWins": 1,
+		"PinWins": 3,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Sharon Ash",
+		"LastName": "Ash",
+		"FirstName": "Sharon",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 0,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Stacy Adams",
+		"LastName": "Adams",
+		"FirstName": "Stacy",
+		"SubmissionWins": 2,
+		"PinWins": 0,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Stephanie Ellington",
+		"LastName": "Ellington",
+		"FirstName": "Stephanie",
+		"SubmissionWins": 7,
+		"PinWins": 1,
+		"Losses": 2,
+		"Champ": 0,
+		"Streak": 1
+	},
+	{
+		"FullName": "Vikki Ryan",
+		"LastName": "Ryan",
+		"FirstName": "Vikki",
+		"SubmissionWins": 6,
+		"PinWins": 3,
+		"Losses": 1,
+		"Champ": 0,
+		"Streak": 1
+	}
+]

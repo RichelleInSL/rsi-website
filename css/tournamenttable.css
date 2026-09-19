@@ -1,0 +1,78 @@
+.tournamentschedulecontainer {
+	align: center;
+	background: #fff;
+	overflow: hidden;
+	border: 1px solid #991821;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.tournamentschedule {
+     text-align: center;
+     width: 100%;
+	 border: none;
+	 border-collapse: collapse;
+	 font-size: 0.75vw;
+}
+
+.tournamentschedule td {
+	padding: 0.25em;
+}
+
+.tableheadercell {
+    background: #991821;
+	color: #FFFFFF;
+	font-weight: bold;
+	border: none;
+	border-left: 1px solid black;
+}
+
+.tabledatarow {
+	background: #FFF5EE;
+	color: black;
+}
+
+.tabledatarow:nth-child(even) {
+	background: #F7CDCD;
+}
+
+.tabledatacell {
+	border: none;
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+}
+
+.tablelablecell {
+    background: #991821;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-top: 1px solid black;
+	border-left: none;
+}
+
+.tableemptycell {
+    background: #991821;
+	color: #FFFFFF;
+	font-weight: bold;
+	border: none;
+}
+
+/*
+.tableemptycell {
+    background: black;
+	color: white;
+}
+*/
+
+.widecolumn {
+	width: 12%;
+}
+
+.labelcolumn {
+	width: 2%;
+}
+
+.offday {
+	background:#FFFFC2;
+}

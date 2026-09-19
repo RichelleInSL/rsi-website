@@ -1,0 +1,43 @@
+<div class="closebtn material-icons" onclick="closeNav()">close</div>
+<h1 class="sidenavtitle">Rampage Sports Roster</h1>
+<div id="sidenavgrid" class="sidenavitemcollection">
+	<a class="sidenavchapter" href="/main/profiles/profile_alyson_michalka.html">Alyson Michalka</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_amanda_seyfried.html">Amanda Seyfried</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_anna_kendrick.html">Anna Kendrick</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_ashley_tisdale.html">Ashley Tisdale</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_britney_spears.html">Britney Spears</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_catherine_bell.html">Catherine Bell</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_cobie_smulders.html">Cobie Smulders</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_daniela_hantuchova.html">Daniela Hantuchova</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_danneel_harris.html">Danneel Harris</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_demi_lovato.html">Demi Lovato</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_dianna_dahlgren.html">Dianna Dahlgren</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_dove_cameron.html">Dove Cameron</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_elisha_cuthbert.html">Elisha Cuthbert</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_emily_vancamp.html">Emily VanCamp</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_emma_watson.html">Emma Watson</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_jennifer_lawrence.html">Jennifer Lawrence</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_jennifer_morrison.html">Jennifer Morrison</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_julianne_hough.html">Julianne Hough</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_katherine_mcnamara.html">Katherine McNamara</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_kristen_bell.html">Kristen Bell</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_olivia_holt.html">Olivia Holt</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_petra_cubonova.html">Petra Cubonova</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_richelle_winterfeld.html">Richelle Winterfeld</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_selena_gomez.html">Selena Gomez</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_stana_katic.html">Stana Katic</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_stephanie_mcmahon.html">Stephanie McMahon</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_tiffany_mulheron.html">Tiffany Mulheron</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_torrie_wilson.html">Torrie Wilson</a>
+	<a class="sidenavchapter" href="/main/profiles/profile_zendaya_coleman.html">Zendaya Coleman</a>
+</div>
+<hr class="fadedrule">
+<div id="mainnavgrid" class="mainnavcollection">
+	<a class="mainnavlink" href="/index.html">Home</a>
+	<a class="mainnavlink" href="/main/rsi_roster.html">Roster</a>
+	<a class="mainnavlink" href="/main/tko_index.html">Print Media</a>
+	<a class="mainnavlink" href="/main/bts_index.html">Behind The Scenes</a>
+	<a class="mainnavlink" href="/main/misc_stories_index.html">Other Stories</a>
+</div>
+
+

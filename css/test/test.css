@@ -1,0 +1,29 @@
+/*Styling for the test page*/
+
+.innerbody {
+	background: black;
+}
+
+.nameplateframe {
+	position: relative;
+}
+
+.nameplatebackgroundframe {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	padding: 1em;
+}
+
+.nameplateimageframe {
+	float: left;
+}
+
+.nameplateimage {
+	max-width: 100%;
+}
+
+.signatureframe {
+	opacity: 0.5;
+}

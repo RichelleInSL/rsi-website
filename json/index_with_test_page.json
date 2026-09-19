@@ -1,0 +1,42 @@
+{
+  "1": {
+    "sectionTitle": "Stable Roster",
+    "sectionImage": "/img/misc/icon_roster.jpg",
+    "imageCredit": "Richelle Winterfeld",
+    "imageCreditTarget": "",
+    "linkedPage": "/main/rsi_roster.html",
+    "linkDescription": "Click here to view the RSI roster"
+  },
+  "2": {
+    "sectionTitle": "Print Media",
+    "sectionImage": "/img/misc/icon_print_media.jpg",
+    "imageCredit": "Richelle Winterfeld",
+    "imageCreditTarget": "",
+    "linkedPage": "/main/tko_index.html",
+    "linkDescription": "Click here to view the RSI-related articles published in Total Knock Out magazine"
+  },
+  "3": {
+    "sectionTitle": "Behind the Scenes",
+    "sectionImage": "/img/misc/icon_behind_the_scenes.jpg",
+    "imageCredit": "onek1995",
+    "imageCreditTarget": "https://onek1995.deviantart.com/",
+    "linkedPage": "/main/bts_index.html",
+    "linkDescription": "Click here to view the Behind the Scenes stories of RSI"
+  },
+  "4": {
+    "sectionTitle": "Other Stories",
+    "sectionImage": "/img/misc/icon_other_stories.jpg",
+    "imageCredit": "PhoenixCreed",
+    "imageCreditTarget": "https://phoenixcreed.deviantart.com/",
+    "linkedPage": "/main/misc_stories_index.html",
+    "linkDescription": "Click here to view the non-RSI stories"
+  },
+  "5": {
+    "sectionTitle": "Test Page",
+    "sectionImage": "/img/misc/icon_test.jpg",
+    "imageCredit": "",
+    "imageCreditTarget": "",
+    "linkedPage": "/main/test_page.html",
+    "linkDescription": "This is a test."
+  }
+}

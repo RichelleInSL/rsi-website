@@ -1,0 +1,50 @@
+{
+  "0": {
+    "sectionTitle": "Home",
+    "sectionImage": "",
+    "imageCredit": "",
+    "imageCreditTarget": "",
+    "linkedPage": "/",
+    "linkDescription": "Return to the site homepage"
+  },
+  "1": {
+    "sectionTitle": "Stable Roster",
+    "sectionImage": "/img/misc/icon_roster.jpg",
+    "imageCredit": "Richelle Winterfeld",
+    "imageCreditTarget": "",
+    "linkedPage": "/main/rsi_roster.html",
+    "linkDescription": "View the Rampage Sports roster"
+  },
+  "2": {
+    "sectionTitle": "Behind the Scenes",
+    "sectionImage": "/img/misc/icon_behind_the_scenes.jpg",
+    "imageCredit": "onek1995",
+    "imageCreditTarget": "https://onek1995.deviantart.com/",
+    "linkedPage": "/main/bts_index.html",
+    "linkDescription": "Check out what goes on behind the scenes at Rampage Sports"
+  },
+  "3": {
+    "sectionTitle": "Print Media",
+    "sectionImage": "/img/misc/icon_print_media.jpg",
+    "imageCredit": "Richelle Winterfeld",
+    "imageCreditTarget": "",
+    "linkedPage": "/main/tko_index.html",
+    "linkDescription": "Read articles published about Rampage Sports in Total Knock Out magazine"
+  },
+  "4": {
+    "sectionTitle": "Other Stories",
+    "sectionImage": "/img/misc/icon_other_stories.jpg",
+    "imageCredit": "PhoenixCreed",
+    "imageCreditTarget": "https://phoenixcreed.deviantart.com/",
+    "linkedPage": "/main/misc_stories_index.html",
+    "linkDescription": "Non-RSI Stories and collaborations"
+  },
+  "5": {
+    "sectionTitle": "RSI Inspired Art",
+    "sectionImage": "/img/misc/icon_gallery_onek1995.jpg",
+    "imageCredit": "onek1995",
+    "imageCreditTarget": "https://onek1995.deviantart.com/",
+    "linkedPage": "/main/rsi_art_gallery.html?artistkey=1",
+    "linkDescription": "Art inspired by RSI characters and stories"
+  }
+}

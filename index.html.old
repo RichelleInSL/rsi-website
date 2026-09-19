@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>Rampage Sports Incorporated</title>
+	<link href='/css/mainsite.css' rel='stylesheet'/>
+	<link href='/css/siteindex.css' rel='stylesheet'/>
+	<link href='/css/sidenav.css' rel='stylesheet'/>
+	<link href='/css/materialicons.css' rel='stylesheet'/>
+	<!--<link rel='icon' type='image/jpg' href='/img/icons/rsi_site_icon.jpg'/>-->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/script.js"></script>
+	<script type="text/javascript" src="/scripts/sidenav.js"></script>
+</head>
+<body>
+<div class="innerbody siteindexinnerbody">
+<!--
+	<div class="siteheader">
+		<div class="headerlogocontainer"><span class="headerlogo">Rampage Sports, Inc</span></div>
+		<div class="headermottocontainer"><span class="headermotto">We not only build champions, we build a family</span></div>
+	</div>
+-->
+	<div class="siteheader"></div>
+	
+	<div class="topnav"></div>
+
+	<div id="mySidenav" class="sidenav sidenavmain"></div>
+	<div class="sidechapternavanchor"></div>
+
+	<div class="indexlinkscollection">
+		
+		<div class="indexlinkscollectionitem mainindexitemcontainer">
+			<figure class="mainindexitemfigure">
+				<figcaption class="mainindexitemfigureheader">Stable Roster</figcaption>
+				<a class="mainindexitemimagelink" href="/main/rsi_roster.html" title="Click here to view the RSI roster" alt="Stable Roster"><img class="mainindexitemimage" src="/img/misc/icon_roster.jpg"></a>
+				<figcaption class="mainindexitemfigurecaption"><span class="mainindexitemfigurecaptioncredit">Image credit: <span class="mainindexitemfigurecaptioncreditnonlink">Richelle Winterfeld</span></figcaption>
+			</figure>
+		</div>
+
+		<div class="indexlinkscollectionitem mainindexitemcontainer">
+			<figure class="mainindexitemfigure">
+				<figcaption class="mainindexitemfigureheader">Print Media</figcaption>
+				<a class="mainindexitemimagelink" href="/main/tko_index.html" title="Click here to view the RSI-related articles published in Total Knock Out magazine" alt="Print Media"><img class="mainindexitemimage" src="/img/misc/icon_print_media.jpg"></a>
+				<figcaption class="mainindexitemfigurecaption"><span class="mainindexitemfigurecaptioncredit">Image credit: <span class="mainindexitemfigurecaptioncreditnonlink">Richelle Winterfeld</span></figcaption>
+			</figure>
+		</div>
+
+		<div class="indexlinkscollectionitem mainindexitemcontainer">
+			<figure class="mainindexitemfigure">
+				<figcaption class="mainindexitemfigureheader">Behind the Scenes</figcaption>
+				<a class="mainindexitemimagelink" href="/main/bts_index.html" title="Click here to view the Behind the Scenes stories of RSI" alt="Behind the Scenes"><img class="mainindexitemimage" src="/img/misc/icon_behind_the_scenes.jpg"></a>
+				<figcaption class="mainindexitemfigurecaption"><span class="mainindexitemfigurecaptioncredit">Image credit: <a class="mainindexitemfigurecaptioncreditlink" href="https://onek1995.deviantart.com/">Onek1995</a></figcaption>
+			</figure>
+		</div>
+<!--
+		<div class="indexlinkscollectionitem mainindexitemcontainer">
+			<figure class="mainindexitemfigure">
+				<figcaption class="mainindexitemfigureheader">Behind the Scenes - JSON</figcaption>
+				<a class="mainindexitemimagelink" href="/main/bts_index_json.html" title="Click here to view the Behind the Scenes stories of RSI" alt="Behind the Scenes"><img class="mainindexitemimage" src="/img/misc/icon_behind_the_scenes.jpg"></a>
+				<figcaption class="mainindexitemfigurecaption"><span class="mainindexitemfigurecaptioncredit">Image credit: <a class="mainindexitemfigurecaptioncreditlink" href="https://onek1995.deviantart.com/">Onek1995</a></figcaption>
+			</figure>
+		</div>
+-->
+		<div class="indexlinkscollectionitem mainindexitemcontainer">
+			<figure class="mainindexitemfigure">
+				<figcaption class="mainindexitemfigureheader">Other Stories</figcaption>
+				<a class="mainindexitemimagelink" href="/main/misc_stories_index.html" title="Click here to view the non-RSI stories" alt="Other Stories"><img class="mainindexitemimage" src="/img/misc/icon_other_stories.jpg"></a>
+				<figcaption class="mainindexitemfigurecaption"><span class="mainindexitemfigurecaptioncredit">Image credit: <a class="mainindexitemfigurecaptioncreditlink" href="https://phoenixcreed.deviantart.com/">PhoenixCreed</a></figcaption>
+			</figure>
+		</div>
+
+	</div>
+	<div class="bottomnav"></div>
+	<div class="sitefooter"></div>
+</div> <!--innerbody-->
+</body>
+</html>

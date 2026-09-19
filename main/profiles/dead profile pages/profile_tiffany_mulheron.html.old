@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Tiffany Mulheron - Profile</title>
+	<link href="/css/mainsite.css" rel="stylesheet">
+	<link href="/css/profiles.css" rel="stylesheet">
+	<link href="/css/sidenav.css" rel="stylesheet"/>
+	<link href='/css/materialicons.css' rel='stylesheet'/>
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css' rel='stylesheet'>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/script.js"></script>
+	<script type="text/javascript" src="/scripts/sidenav.js"></script>
+	<script type="text/javascript" src="/scripts/profile.js"></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js'></script>
+</head>
+<body>
+	<div class="innerbody profileinnerbody">
+		<div class="siteheader"></div>
+		
+		<div class="topnav"></div>
+		
+		<div id="mySidenav" class="sidenav sidenavprofiles"></div>
+		<div class="sideprofilenavanchor"></div>
+
+		<div class="profilenameplate">
+			<img class="nameplate" src="/img/profile_nameplates/nameplate_tiffany_mulheron.jpg" alt="Tiffany Mulheron" title="Tiffany Mulheron"/>
+		</div>
+		
+		<div class="profileheader">
+			<div class="profilemainimage">
+				<img class="mainprofileimage" src="/img/profiles/tiffany_mulheron/profile_main/profile_tiffany_mulheron_main.png"  alt="Tiffany Mulheron" title="Tiffany Mulheron"/>
+			</div>
+
+			<div class="profilestats section fighterstats">
+			
+				<div class="statsflexrow managementpositionrow">
+					<div class="managementpositioncell">
+						<span id="profilemanagementposition" class="managementpositiontext"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Name</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefullname" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Born</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Height</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilebirthdate" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileheight" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweight" class="statvalue"></span>
+					</div>
+				</div>
+				<div class="statsflexrow labelrow">
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Age Group</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Weight Class</span>
+					</div>
+					<div class="statsflexcell labelcell">
+						<span class="statlabel bold">Country</span>
+					</div>
+				</div>
+				<div class="statsflexrow valuerow">
+					<div class="statsflexcell valuecell">
+						<span id="profilefranchise" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span id="profileweightclass" class="statvalue"></span>
+					</div>
+					<div class="statsflexcell valuecell">
+						<span class="statvalue"><img id="countryicon" class="flagicon" src="" alt="Scotland" title="Scotland"/></span>
+					</div>
+				</div>
+			</div> <!--profilestats-->
+		</div> <!--profileheader-->
+
+		<h2 class="sectionheader">Bio</h2>
+		<div class="profilebio section bio">
+			<p class="firstparagraph">When you have a habit of taking the world on your shoulders, it's a good idea to have someone around who will help you carry the load.  And when Emma Watson's well-intentioned meddling gets her in too deep, Tiffany Mulheron is there to pull her back out.  The two are partners in every sense of the world.  Though Emma is almost always the one leading the charge, she never has to turn around to know Tiff is behind her.</p>
+			
+			<p>Make no mistake, though... Tiff is nobody's sidekick in the cage.  Once a frequent victim of the somewhat sadistic Nadine Coyle, she is now a force all her own.  A finely-honed weapon, capable of beating anyone you put in front of her.  In fact, her greatest nemesis now is probably Emma.  Battling with each other every day in training has turned the pair into mirror images of one another.  Which one is better?  Beats me... and the even split of their recent results suggests it's impossible to separate them.</p>
+			
+			<p>I do know this... I wouldn't want to piss either one of them off.</p>
+		</div>
+
+		<h2 id="awardssection" class="sectionheader">Awards</h2>
+		<div id="profileawardslist" class="profileawards section bio">
+			<!--The javascript code will insert the awards here-->
+		</div>
+
+		<h2 class="sectionheader">Photo Gallery <span class="photogalleryinstructions">(click here for <a class="fullgallerylink" href="profile_tiffany_mulheron_gallery.html" target="_blank">the full gallery</a>)</span></h2>
+		<div class="profilegallery section photogallery">
+			<div class="photogalleryviewer">
+				<div class="fotorama">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_001.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_002.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_003.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_004.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_005.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_006.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_007.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_008.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_009.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_010.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_011.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_012.jpg" alt="Tiffany Mulheron">
+					<img src="/img/profiles/tiffany_mulheron/profile_gallery/preview/profile_tiffany_mulheron_013.jpg" alt="Tiffany Mulheron">
+				</div> <!--fotorama-->
+			</div> <!--photogalleryviewer-->
+		</div> <!--profilegallery-->
+		<div class="bottomnav"></div>
+		<div class="sitefooter"></div>
+	</div> <!--innerbody-->
+	<script>
+		var sFighterName = "Tiffany Mulheron";
+		getFighterData(sFighterName);
+		//loadFighterProfileGallery(sFighterName);
+		loadFighterAwards(sFighterName);
+	</script>
+</body>
+</html>

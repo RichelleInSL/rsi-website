@@ -1,0 +1,386 @@
+{
+  "ABBIE CORNISH": {
+    "fullName": "Abbie Cornish",
+    "lastName": "Cornish",
+    "firstName": "Abbie",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "LHW"
+  },
+  "ADELE EXARCHOPOULOS": {
+    "fullName": "Adele Exarchopoulos",
+    "lastName": "Exarchopoulos",
+    "firstName": "Adele",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "LW"
+  },
+  "ALANA BLANCHARD": {
+    "fullName": "Alana Blanchard",
+    "lastName": "Blanchard",
+    "firstName": "Alana",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "SHW"
+  },
+  "ALEX MORGAN": {
+    "fullName": "Alex Morgan",
+    "lastName": "Morgan",
+    "firstName": "Alex",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "LW"
+  },
+  "ALICE EVE": {
+    "fullName": "Alice Eve",
+    "lastName": "Eve",
+    "firstName": "Alice",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "LHW"
+  },
+  "ALYSSA MILANO": {
+    "fullName": "Alyssa Milano",
+    "lastName": "Milano",
+    "firstName": "Alyssa",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "WW"
+  },
+  "ANDREA DURO": {
+    "fullName": "Andrea Duro",
+    "lastName": "Duro",
+    "firstName": "Andrea",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "WW"
+  },
+  "ARIANNY CELESTE": {
+    "fullName": "Arianny Celeste",
+    "lastName": "Celeste",
+    "firstName": "Arianny",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "LW"
+  },
+  "ASHLEY BENSON": {
+    "fullName": "Ashley Benson",
+    "lastName": "Benson",
+    "firstName": "Ashley",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "LW"
+  },
+  "BLANCA SUAREZ": {
+    "fullName": "Blanca Suarez",
+    "lastName": "Suarez",
+    "firstName": "Blanca",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "SHW"
+  },
+  "BRIANA EVIGAN": {
+    "fullName": "Briana Evigan",
+    "lastName": "Evigan",
+    "firstName": "Briana",
+    "nickNames": "Bree",
+    "franchise": "2",
+    "division": "FW"
+  },
+  "CAROLINE WOZNIACKI": {
+    "fullName": "Caroline Wozniacki",
+    "lastName": "Wozniacki",
+    "firstName": "Caroline",
+    "nickNames": "Woz",
+    "franchise": "1",
+    "division": "HW"
+  },
+  "DAISY RIDLEY": {
+    "fullName": "Daisy Ridley",
+    "lastName": "Ridley",
+    "firstName": "Daisy",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "LW"
+  },
+  "DIANNA AGRON": {
+    "fullName": "Dianna Agron",
+    "lastName": "Agron",
+    "firstName": "Dianna",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "LW"
+  },
+  "EMILY BLUNT": {
+    "fullName": "Emily Blunt",
+    "lastName": "Blunt",
+    "firstName": "Emily",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "LW"
+  },
+  "EMMANUELLE CHRIQUI": {
+    "fullName": "Emmanuelle Chriqui",
+    "lastName": "Chriqui",
+    "firstName": "Emmanuelle",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "WW"
+  },
+  "EVANGELINE LILLY": {
+    "fullName": "Evangeline Lilly",
+    "lastName": "Lilly",
+    "firstName": "Evangeline",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "LW"
+  },
+  "EVE WYRWAL": {
+    "fullName": "Eve Wyrwal",
+    "lastName": "Wyrwal",
+    "firstName": "Eve",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "SHW"
+  },
+  "GAL GADOT": {
+    "fullName": "Gal Gadot",
+    "lastName": "Gadot",
+    "firstName": "Gal",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "FW"
+  },
+  "HAYLEY ATWELL": {
+    "fullName": "Hayley Atwell",
+    "lastName": "Atwell",
+    "firstName": "Hayley",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "SHW"
+  },
+  "JAIMIE ALEXANDER": {
+    "fullName": "Jaimie Alexander",
+    "lastName": "Alexander",
+    "firstName": "Jaimie",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "LHW"
+  },
+  "JENNA-LOUISE COLEMAN": {
+    "fullName": "Jenna-Louise Coleman",
+    "lastName": "Coleman",
+    "firstName": "Jenna-Louise",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "BW"
+  },
+  "JOSIE MARAN": {
+    "fullName": "Josie Maran",
+    "lastName": "Maran",
+    "firstName": "Josie",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "MW"
+  },
+  "JOSS STONE": {
+    "fullName": "Joss Stone",
+    "lastName": "Stone",
+    "firstName": "Joss",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "LW"
+  },
+  "JULIANNA GUILL": {
+    "fullName": "Julianna Guill",
+    "lastName": "Guill",
+    "firstName": "Julianna",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "HW"
+  },
+  "KATE BECKINSALE": {
+    "fullName": "Kate Beckinsale",
+    "lastName": "Beckinsale",
+    "firstName": "Kate",
+    "nickNames": "Becks",
+    "franchise": "4",
+    "division": "WW"
+  },
+  "KRISTEN STEWART": {
+    "fullName": "Kristen Stewart",
+    "lastName": "Stewart",
+    "firstName": "Kristen",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "WW"
+  },
+  "MARGOT ROBBIE": {
+    "fullName": "Margot Robbie",
+    "lastName": "Robbie",
+    "firstName": "Margot",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "MW"
+  },
+  "MARIE AVGEROPOULOS": {
+    "fullName": "Marie Avgeropoulos",
+    "lastName": "Avgeropoulos",
+    "firstName": "Marie",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "LW"
+  },
+  "MAYA STOJAN": {
+    "fullName": "Maya Stojan",
+    "lastName": "Stojan",
+    "firstName": "Maya",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "MW"
+  },
+  "MELANIE IGLESIAS": {
+    "fullName": "Melanie Iglesias",
+    "lastName": "Iglesias",
+    "firstName": "Melanie",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "WW"
+  },
+  "MONICA BELLUCCI": {
+    "fullName": "Monica Bellucci",
+    "lastName": "Bellucci",
+    "firstName": "Monica",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "SHW"
+  },
+  "NATALIE PORTMAN": {
+    "fullName": "Natalie Portman",
+    "lastName": "Portman",
+    "firstName": "Natalie",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "BW"
+  },
+  "NINA DOBREV": {
+    "fullName": "Nina Dobrev",
+    "lastName": "Dobrev",
+    "firstName": "Nina",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "BW"
+  },
+  "OLGA KURYLENKO": {
+    "fullName": "Olga Kurylenko",
+    "lastName": "Kurylenko",
+    "firstName": "Olga",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "LW"
+  },
+  "PENELOPE CRUZ": {
+    "fullName": "Penelope Cruz",
+    "lastName": "Cruz",
+    "firstName": "Penelope",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "FW"
+  },
+  "RACHAEL FINCH": {
+    "fullName": "Rachael Finch",
+    "lastName": "Finch",
+    "firstName": "Rachael",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "HW"
+  },
+  "RACHAEL LEIGH COOK": {
+    "fullName": "Rachael Leigh Cook",
+    "lastName": "Cook",
+    "firstName": "Rachael Leigh",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "BW"
+  },
+  "RACHEL MCADAMS": {
+    "fullName": "Rachel McAdams",
+    "lastName": "McAdams",
+    "firstName": "Rachel",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "FW"
+  },
+  "RASHIDA JONES": {
+    "fullName": "Rashida Jones",
+    "lastName": "Jones",
+    "firstName": "Rashida",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "FW"
+  },
+  "ROBERTA MURGO": {
+    "fullName": "Roberta Murgo",
+    "lastName": "Murgo",
+    "firstName": "Roberta",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "FW"
+  },
+  "ROSE BYRNE": {
+    "fullName": "Rose Byrne",
+    "lastName": "Byrne",
+    "firstName": "Rose",
+    "nickNames": "",
+    "franchise": "3",
+    "division": "BW"
+  },
+  "SAMANTHA HOOPES": {
+    "fullName": "Samantha Hoopes",
+    "lastName": "Hoopes",
+    "firstName": "Samantha",
+    "nickNames": "Hammer",
+    "franchise": "1",
+    "division": "HW"
+  },
+  "SHAY MITCHELL": {
+    "fullName": "Shay Mitchell",
+    "lastName": "Mitchell",
+    "firstName": "Shay",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "MW"
+  },
+  "SOPHIA BUSH": {
+    "fullName": "Sophia Bush",
+    "lastName": "Bush",
+    "firstName": "Sophia",
+    "nickNames": "Sophs",
+    "franchise": "3",
+    "division": "WW"
+  },
+  "SUSAN WARD": {
+    "fullName": "Susan Ward",
+    "lastName": "Ward",
+    "firstName": "Susan",
+    "nickNames": "",
+    "franchise": "4",
+    "division": "LHW"
+  },
+  "TROIAN BELLISARIO": {
+    "fullName": "Troian Bellisario",
+    "lastName": "Bellisario",
+    "firstName": "Troian",
+    "nickNames": "",
+    "franchise": "2",
+    "division": "FW"
+  },
+  "ZOEY DEUTCH": {
+    "fullName": "Zoey Deutch",
+    "lastName": "Deutch",
+    "firstName": "Zoey",
+    "nickNames": "",
+    "franchise": "1",
+    "division": "LW"
+  }
+}

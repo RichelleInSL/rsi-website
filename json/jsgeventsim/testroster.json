@@ -1,0 +1,42 @@
+[
+	{
+		"FullName": "Annie Winfield",
+		"LastName": "Winfield",
+		"FirstName": "Annie",
+		"SubmissionWins": 3,
+		"PinWins": 2,
+		"Losses": 1,
+		"Champ": 1,
+		"Streak": 4
+	},
+	{
+		"FullName": "Wendy Abernathy",
+		"LastName": "Abernathy",
+		"FirstName": "Wendy",
+		"SubmissionWins": 1,
+		"PinWins": 0,
+		"Losses": 6,
+		"Champ": 0,
+		"Streak": -5
+	},
+	{
+		"FullName": "Diane Chambers",
+		"LastName": "Chambers",
+		"FirstName": "Diane",
+		"SubmissionWins": 1,
+		"PinWins": 1,
+		"Losses": 4,
+		"Champ": 0,
+		"Streak": -2
+	},
+	{
+		"FullName": "Stacy Smith",
+		"LastName": "Smith",
+		"FirstName": "Stacy",
+		"SubmissionWins": 2,
+		"PinWins": 2,
+		"Losses": 2,
+		"Champ": 0,
+		"Streak": 2
+	}
+]
