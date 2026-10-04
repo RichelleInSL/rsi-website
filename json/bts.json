@@ -1065,7 +1065,7 @@
 		}
 	},
   "21": {
-		"title": "Debutante Debut",
+		"title": "The Night Off",
 		"published": "NO",
 		"coverType": "PNG",
 		"coverCredit": "",
@@ -1073,25 +1073,10 @@
 		"description": "<p class='indexstorydescription'>Rookie Roundup</p>",
 		"chapters": {
 			"1": {
-				"title": "Raising the Rookies",
+				"title": "The Night Off",
 				"released": "YES",
-				"references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5", "STEPHANIE MCMAHON|4", "DOVE CAMERON|1", "ZENDAYA COLEMAN|1", "OLIVIA HOLT|1", "KATHERINE MCNAMARA|2", "SELENA GOMEZ|1", "EMMA WATSON|3", "JULIANNE HOUGH|1", "EMILY VANCAMP|2", "JENNIFER LAWRENCE|1", "DIANNA DAHLGREN|1", "CATHERINE BELL|1", "ALYSON MICHALKA|4", "TORRIE WILSON|1"]
+				"references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5"]
 			}
 		}
-	},
-	"22": {
-		  "title": "The Seeds We've Sown",
-		  "published": "NO",
-		  "coverType": "PNG",
-		  "coverCredit": "",
-		  "coverLink": "",
-		  "description": "<p class='indexstorydescription'>Rookie Roundup</p>",
-		  "chapters": {
-			  "1": {
-				  "title": "Raising the Rookies",
-				  "released": "YES",
-				  "references": ["RICHELLE WINTERFELD|1", "DANNEEL HARRIS|5", "STEPHANIE MCMAHON|4", "DOVE CAMERON|1", "ZENDAYA COLEMAN|1", "OLIVIA HOLT|1", "KATHERINE MCNAMARA|2", "SELENA GOMEZ|1", "EMMA WATSON|3", "JULIANNE HOUGH|1", "EMILY VANCAMP|2", "JENNIFER LAWRENCE|1", "DIANNA DAHLGREN|1", "CATHERINE BELL|1", "ALYSON MICHALKA|4", "TORRIE WILSON|1"]
-			  }
-		  }
 	}
 }
